@@ -12,6 +12,6 @@ This repo attempts to list them all.
 
 Title | Badge | Earnable? | Earned by
 ------------ | ------------- | ------------ | -------------
-Arctic Code Vault Contributor | | ❌ | 
+Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/badge--acv-64.png?raw=true) | ❌ | 
 (GitHub Sponsor) | | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
 Mars 2020 Helicopter Contributor | | ❓ |
