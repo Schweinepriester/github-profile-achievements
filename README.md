@@ -9,3 +9,9 @@ Following the launch of the first Mars Helicopter, [Ingenuity](https://en.wikip
 This repo attempts to list them all.
 
 ## Achievements
+
+Title | Badge | Earnable? | Earned by
+------------ | ------------- | ------------ | -------------
+Arctic Code Vault Contributor | | ❌ | 
+ | | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
+Mars 2020 Helicopter Contributor | | |
