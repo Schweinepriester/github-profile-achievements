@@ -18,6 +18,8 @@ Mars 2020 Helicopter Contributor | ![Mars 2020 Helicopter Contributor Achievemen
 
 ## Official list
 
-There is an official list available in the GitHub Docs at <https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile#displaying-badges-on-your-profile>, which includes specifics on how badges were/are awarded, e.g. which [repositories and versions qualified for the Mars 2020 Helicopter Contributor](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile#list-of-qualifying-repositories-for-mars-2020-helicopter-contributor-badge).
+There is an official list available in the GitHub Docs at  
+<https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile#displaying-badges-on-your-profile>,  
+which includes specifics on how badges were/are awarded, e.g. which [repositories and versions qualified for the Mars 2020 Helicopter Contributor](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile#list-of-qualifying-repositories-for-mars-2020-helicopter-contributor-badge).
 
 Consider this repository a mirror, maybe in the future with historic purpose.
