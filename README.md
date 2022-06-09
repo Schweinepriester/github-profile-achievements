@@ -16,7 +16,7 @@ This repository attempts to list them all.
 | --- | --- | --- | --- |
 Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](/images/arctic-code-vault-contributor-default.png) | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
 GitHub Sponsor | ![GitHub Sponsor Achievement Badge](/images/public-sponsor-default.png) | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
-Mars 2020 Helicopter Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](/images/badge-mars-2020-small.png) | ❌ | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter)
+Mars 2020 Helicopter Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](/images/mars-2020-contributor-default.png) | ❌ | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter)
 |||
 Galaxy Brain | ![Galaxy Brain Badge](/images/galaxy-brain-default.png) | ✔️ | Answered discussions
 Pull Shark | ![Pull Shark Badge](/images/pull-shark-default.png) | ✔️ | Opened pull requests that have been merged
@@ -44,6 +44,8 @@ From the [start with Ingenuity on 2021-04-19](https://github.blog/2021-04-19-ope
 
 Here are the old designs:
 
+| Title | Badge | Earnable? | Earned by |
+| --- | --- | --- | --- |
 Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](/images/2021-04-19-2022-06-09/badge-arctic-code-vault-small.png) | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
 GitHub Sponsor | ![GitHub Sponsor Achievement Badge](/images/2021-04-19-2022-06-09/badge-sponsors-small.png) | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
 Mars 2020 Helicopter Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](images/2021-04-19-2022-06-09/badge-mars-2020-small.png) | ❌ | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter)
