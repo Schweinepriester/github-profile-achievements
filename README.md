@@ -8,7 +8,7 @@ Following the launch of the first Mars Helicopter, [Ingenuity](https://en.wikip
 
 This repository attempts to list them all.
 
-**2022-06-09:** GitHub [announced more Achievements](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/), but without specific criteria.
+**2022-06-09:** GitHub [announced more Achievements](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/), but without specific criteria. If you see something not listed here, please open an issue :)
 
 ## Achievements
 
