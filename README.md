@@ -2,7 +2,7 @@
 
 A collection listing all Achievements available on the GitHub profile.
 
-**2022-06-09:** GitHub [announced more Achievements 🎉](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/), but without specific criteria. I'll try to uncover them! If you see something not listed here, please open an issue :)
+**2022-06-09:** GitHub [announced more Achievements 🎉](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/), but without specific criteria.
 
 Following the launch of the first Mars Helicopter, [Ingenuity](https://en.wikipedia.org/wiki/Ingenuity_(helicopter)), GitHub [announced](https://github.blog/2021-04-19-open-source-goes-to-mars/) the new Achievements section:
 
