@@ -15,8 +15,8 @@ This repository attempts to list them all.
 | Title | Badge | Earnable? | Earned by |
 | --- | --- | --- | --- |
 Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](/images/arctic-code-vault-contributor-default.png) | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
-GitHub Sponsor | ![GitHub Sponsor Achievement Badge](/images/public-sponsor-default.png) | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
-Mars 2020 Helicopter Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](/images/mars-2020-contributor-default.png) | ❌ | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter)
+Public Sponsor | ![GitHub Sponsor Achievement Badge](/images/public-sponsor-default.png) | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
+Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](/images/mars-2020-contributor-default.png) | ❌ | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter)
 |||
 Galaxy Brain | ![Galaxy Brain Badge](/images/galaxy-brain-default.png) | ✔️ | Answered discussions
 Pull Shark | ![Pull Shark Badge](/images/pull-shark-default.png) | ✔️ | Opened pull requests that have been merged
@@ -40,9 +40,16 @@ which includes specifics on how badges were/are awarded, e.g. which [repositorie
 
 ### 2021-04-19 - 2022-06-09
 
-From the [start with Ingenuity on 2021-04-19](https://github.blog/2021-04-19-open-source-goes-to-mars/) until the [additions on 2022-06-09](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/), the first three Achievements had a different design. In other words, they were overhauled on 2022-06-09.
+From the [start with Ingenuity on 2021-04-19](https://github.blog/2021-04-19-open-source-goes-to-mars/) until the [additions on 2022-06-09](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/), the first three Achievements had a different design and slightly different names. In other words, they were overhauled on 2022-06-09.
 
-Here are the old designs:
+```diff
+- GitHub Sponsor
++ Public Sponsor
+- Mars 2020 Helicopter Contributor
++ Mars 2020 Contributor
+```
+
+Here are the old designs and names:
 
 | Title | Badge |
 | --- | --- |
