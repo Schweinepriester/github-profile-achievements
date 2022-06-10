@@ -42,7 +42,7 @@ There is still a section which includes specifics on how badges were/are awarded
 
 ### 2021-04-19 - 2022-06-09
 
-From the [start with Ingenuity on 2021-04-19](https://github.blog/2021-04-19-open-source-goes-to-mars/) until the [additions on 2022-06-09](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/), the first three Achievements had a different design and slightly different names. In other words, they were overhauled on 2022-06-09.
+From the [start with Ingenuity on 2021-04-19](https://github.blog/2021-04-19-open-source-goes-to-mars/) until the [additions on 2022-06-09](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/), the first three Achievements had slightly different designs and names. In other words, they were overhauled on 2022-06-09.
 
 ```diff
 - GitHub Sponsor
