@@ -20,15 +20,22 @@ Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badg
 Public Sponsor | ![GitHub Sponsor Achievement Badge](/images/public-sponsor-default.png) | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
 Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](/images/mars-2020-contributor-default.png) | ❌ | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter)
 |||
-Galaxy Brain | ![Galaxy Brain Badge](/images/galaxy-brain-default.png) | ✔️ | Answered discussions
-Pull Shark | ![Pull Shark Badge](/images/pull-shark-default.png) | ✔️ | Opened pull requests that have been merged
+Galaxy Brain | ![Galaxy Brain Badge](/images/galaxy-brain-default.png) | ✔️ | 2 answered discussions
+Pull Shark | ![Pull Shark Badge](/images/pull-shark-default.png) | ✔️ | 2 opened pull requests that have been merged
 YOLO | ![YOLO Badge](/images/yolo-default.png) | ✔️ | Merged pull request without code review
 
 ## Tiers
 
-Some Achievements not only have the base "default" version, but also tiers.
+Some Achievements not only have the base version, but also tiers.
 
-TODO
+| Title | Tier | Badge | Earned by |
+| --- | --- | --- | --- |
+Galaxy Brain - Bronze | 🥉 | ![Galaxy Brain Bronze Badge](/images/tiers/galaxy-brain-bronze.png) | 8 accepted answers
+Galaxy Brain - Silver | 🥈 | ![Galaxy Brain Silver Badge](/images/tiers/galaxy-brain-silver.png) | 16 accepted answers
+Galaxy Brain - Gold | 🥇 | ![Galaxy Brain Gold Badge](/images/tiers/galaxy-brain-gold.png) | 32 accepted answers
+Pull Shark - Bronze | 🥉 | ![Pull Shark Bronze Badge](/images/tiers/pull-shark-bronze.png) | 16 pull requests merged
+Pull Shark - Silver | 🥈 | ![Pull Shark Silver Badge](/images/tiers/pull-shark-silver.png) | 128 pull requests merged
+Pull Shark - Gold | 🥇 | ![Pull Shark Gold Badge](/images/tiers/pull-shark-gold.png) | 1024 pull requests merged
 
 ## Official list
 
