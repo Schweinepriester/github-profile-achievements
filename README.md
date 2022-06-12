@@ -19,7 +19,7 @@ Don't like the Achievements? [Here](https://docs.github.com/account-and-profile/
 Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](/images/arctic-code-vault-contributor-default.png) | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
 Public Sponsor | ![GitHub Sponsor Achievement Badge](/images/public-sponsor-default.png) | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
 Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](/images/mars-2020-contributor-default.png) | ❌ | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter)
-|||
+||| <!-- this empty row is intentional to separate the original achievements from the new ones -->
 Galaxy Brain | ![Galaxy Brain Badge](/images/galaxy-brain-default.png) | ✔️ | 2 answered discussions
 Pull Shark | ![Pull Shark Badge](/images/pull-shark-default.png) | ✔️ | 2 opened pull requests that have been merged
 YOLO | ![YOLO Badge](/images/yolo-default.png) | ✔️ | Merged pull request without code review
