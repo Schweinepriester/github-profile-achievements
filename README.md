@@ -30,12 +30,12 @@ Some Achievements not only have the base version, but also tiers.
 
 | Title | Tier | Badge | Earned by |
 | --- | --- | --- | --- |
-Galaxy Brain - Bronze | 🥉 | ![Galaxy Brain Bronze Badge](/images/tiers/galaxy-brain-bronze.png) | 8 accepted answers
-Galaxy Brain - Silver | 🥈 | ![Galaxy Brain Silver Badge](/images/tiers/galaxy-brain-silver.png) | 16 accepted answers
-Galaxy Brain - Gold | 🥇 | ![Galaxy Brain Gold Badge](/images/tiers/galaxy-brain-gold.png) | 32 accepted answers
-Pull Shark - Bronze | 🥉 | ![Pull Shark Bronze Badge](/images/tiers/pull-shark-bronze.png) | 16 pull requests merged
-Pull Shark - Silver | 🥈 | ![Pull Shark Silver Badge](/images/tiers/pull-shark-silver.png) | 128 pull requests merged
-Pull Shark - Gold | 🥇 | ![Pull Shark Gold Badge](/images/tiers/pull-shark-gold.png) | 1024 pull requests merged
+Galaxy Brain | Bronze 🥉 | ![Galaxy Brain Bronze Badge](/images/tiers/galaxy-brain-bronze.png) | 8 accepted answers
+Galaxy Brain | Silver 🥈 | ![Galaxy Brain Silver Badge](/images/tiers/galaxy-brain-silver.png) | 16 accepted answers
+Galaxy Brain | Gold 🥇 | ![Galaxy Brain Gold Badge](/images/tiers/galaxy-brain-gold.png) | 32 accepted answers
+Pull Shark | Bronze 🥉 | ![Pull Shark Bronze Badge](/images/tiers/pull-shark-bronze.png) | 16 pull requests merged
+Pull Shark | Silver 🥈 | ![Pull Shark Silver Badge](/images/tiers/pull-shark-silver.png) | 128 pull requests merged
+Pull Shark | Gold 🥇 | ![Pull Shark Gold Badge](/images/tiers/pull-shark-gold.png) | 1024 pull requests merged
 
 ## Official list
 
