@@ -43,7 +43,7 @@ There ~~is~~ was an official list available in the GitHub Docs at
 <https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile> ([link to the archived version](https://web.archive.org/web/20220531023858/https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile)).  
 There is still a section which includes specifics on how badges were/are awarded, e.g. which [repositories and versions qualified for the Mars 2020 Helicopter Contributor](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#list-of-qualifying-repositories-for-mars-2020-helicopter-contributor-achievement).
 
-~~Consider this repository a mirror, maybe in the future with historic purpose.~~ Unless there will be an offical list again, this is it.
+~~Consider this repository a mirror, maybe in the future with historic purpose.~~ Unless there will be an official list again, this is it.
 
 ## Previous versions
 
