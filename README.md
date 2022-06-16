@@ -47,6 +47,12 @@ There is still a section which includes specifics on how badges were/are awarded
 
 ## Details
 
+### More details on how to achieve
+
+For now, please refer to the [discussions](https://github.com/Schweinepriester/github-profile-achievements/discussions).
+- [Galaxy Brain](https://github.com/Schweinepriester/github-profile-achievements/discussions/9#discussioncomment-2927413)
+- [YOLO](https://github.com/Schweinepriester/github-profile-achievements/discussions/6#discussioncomment-2934257)
+
 ### Tier labels
 
 Each tier has a label associated which includes a color.
