@@ -28,14 +28,14 @@ YOLO | ![YOLO Badge](/images/yolo-default.png) | ✔️ | Merged pull request wi
 
 Some Achievements not only have the base version, but also tiers.
 
-| Title | Tier | Badge | Earned by |
-| --- | --- | --- | --- |
-Galaxy Brain | Bronze 🥉 | ![Galaxy Brain Bronze Badge](/images/tiers/galaxy-brain-bronze.png) | 8 accepted answers
-Galaxy Brain | Silver 🥈 | ![Galaxy Brain Silver Badge](/images/tiers/galaxy-brain-silver.png) | 16 accepted answers
-Galaxy Brain | Gold 🥇 | ![Galaxy Brain Gold Badge](/images/tiers/galaxy-brain-gold.png) | 32 accepted answers
-Pull Shark | Bronze 🥉 | ![Pull Shark Bronze Badge](/images/tiers/pull-shark-bronze.png) | 16 pull requests merged
-Pull Shark | Silver 🥈 | ![Pull Shark Silver Badge](/images/tiers/pull-shark-silver.png) | 128 pull requests merged
-Pull Shark | Gold 🥇 | ![Pull Shark Gold Badge](/images/tiers/pull-shark-gold.png) | 1024 pull requests merged
+| Title | Tier | Badge | Earned by | Displayed as |
+| --- | --- | --- | --- | --- |
+Galaxy Brain | Bronze 🥉 | ![Galaxy Brain Bronze Badge](/images/tiers/galaxy-brain-bronze.png) | 8 accepted answers | x2 |
+Galaxy Brain | Silver 🥈 | ![Galaxy Brain Silver Badge](/images/tiers/galaxy-brain-silver.png) | 16 accepted answers | x3 |
+Galaxy Brain | Gold 🥇 | ![Galaxy Brain Gold Badge](/images/tiers/galaxy-brain-gold.png) | 32 accepted answers | x4 |
+Pull Shark | Bronze 🥉 | ![Pull Shark Bronze Badge](/images/tiers/pull-shark-bronze.png) | 16 pull requests merged | x2 |
+Pull Shark | Silver 🥈 | ![Pull Shark Silver Badge](/images/tiers/pull-shark-silver.png) | 128 pull requests merged | x3 |
+Pull Shark | Gold 🥇 | ![Pull Shark Gold Badge](/images/tiers/pull-shark-gold.png) | 1024 pull requests merged | x4 |
 
 ## Official list
 
