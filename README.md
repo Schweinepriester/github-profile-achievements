@@ -45,6 +45,18 @@ There is still a section which includes specifics on how badges were/are awarded
 
 ~~Consider this repository a mirror, maybe in the future with historic purpose.~~ Unless there will be an official list again, this is it.
 
+## Details
+
+### Tier labels
+
+Each tier has a label associated which includes a color.
+
+| Tier | Label | Sample | Hex | Visual |
+| --- | --- | --- | --- | --- |
+Bronze 🥉 | x2 | ![x2](/images/custom/tier-label/tier-label-bronze.svg) | #F9BFA7 | ![#F9BFA7](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23F9BFA7-yellow?style=flat-square&color=F9BFA7)
+Silver 🥈 | x3 | ![x3](/images/custom/tier-label/tier-label-silver.svg) | #E1E4E4 | ![#E1E4E4](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23E1E4E4-yellow?style=flat-square&color=E1E4E4)
+Gold 🥇 | x4 | ![x4](/images/custom/tier-label/tier-label-gold.svg) | #FAE57E  | ![#FAE57E](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23FAE57E-yellow?style=flat-square&color=FAE57E)
+
 ## Previous versions
 
 ### 2021-04-19 - 2022-06-09
