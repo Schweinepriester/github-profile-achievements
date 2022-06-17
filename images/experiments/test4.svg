@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.675" height="20">
+  <g>
+    <!-- <text color="#24292F" dominant-baseline="text-after-edge" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;" font-size="20" font-stretch="100%" font-weight="600" text-decoration="none solid rgb(36, 41, 47)" word-spacing="0" writing-mode="horizontal-tb" fill="#24292F"><tspan xml:space="preserve" x="807.60004" y="322.39999" textLength="90.1875" lengthAdjust="spacingAndGlyphs">Pull Shark</tspan></text>
+    -->
+    <g>
+      <rect width="30.675" height="20" fill="#E1E4E4" stroke="#E1E4E4" rx="10" ry="10" data-stacking-layer="rootBackgroundAndBorders"/>
+      <text color="#24292F" dominant-baseline="text-after-edge" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;" font-size="12" font-stretch="100%" font-weight="600" text-decoration="none solid rgb(36, 41, 47)" word-spacing="0" writing-mode="horizontal-tb" fill="#24292F"><tspan xml:space="preserve" x="14.78754" y="17.20001" textLength="12.67499" lengthAdjust="spacingAndGlyphs">x3</tspan></text>
+    </g>
+  </g>
+</svg>

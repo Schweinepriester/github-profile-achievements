@@ -30,12 +30,12 @@ Some Achievements not only have the base version, but also tiers.
 
 | Title | Tier | Badge | Earned by |
 | --- | --- | --- | --- |
-Galaxy Brain | Bronze 🥉 | ![Galaxy Brain Bronze Badge](/images/tiers/galaxy-brain-bronze.png) | 8 accepted answers
-Galaxy Brain | Silver 🥈 | ![Galaxy Brain Silver Badge](/images/tiers/galaxy-brain-silver.png) | 16 accepted answers
-Galaxy Brain | Gold 🥇 | ![Galaxy Brain Gold Badge](/images/tiers/galaxy-brain-gold.png) | 32 accepted answers
-Pull Shark | Bronze 🥉 | ![Pull Shark Bronze Badge](/images/tiers/pull-shark-bronze.png) | 16 pull requests merged
-Pull Shark | Silver 🥈 | ![Pull Shark Silver Badge](/images/tiers/pull-shark-silver.png) | 128 pull requests merged
-Pull Shark | Gold 🥇 | ![Pull Shark Gold Badge](/images/tiers/pull-shark-gold.png) | 1024 pull requests merged
+Galaxy Brain x2 | Bronze 🥉 | ![Galaxy Brain Bronze Badge](/images/tiers/galaxy-brain-bronze.png) | 8 accepted answers
+Galaxy Brain x3 | Silver 🥈 | ![Galaxy Brain Silver Badge](/images/tiers/galaxy-brain-silver.png) | 16 accepted answers
+Galaxy Brain x4 | Gold 🥇 | ![Galaxy Brain Gold Badge](/images/tiers/galaxy-brain-gold.png) | 32 accepted answers
+Pull Shark x2 | Bronze 🥉 | ![Pull Shark Bronze Badge](/images/tiers/pull-shark-bronze.png) | 16 pull requests merged
+Pull Shark x3 | Silver 🥈 | ![Pull Shark Silver Badge](/images/tiers/pull-shark-silver.png) | 128 pull requests merged
+Pull Shark x4 | Gold 🥇 | ![Pull Shark Gold Badge](/images/tiers/pull-shark-gold.png) | 1024 pull requests merged
 
 ## Official list
 
@@ -44,6 +44,25 @@ There ~~is~~ was an official list available in the GitHub Docs at
 There is still a section which includes specifics on how badges were/are awarded, e.g. which [repositories and versions qualified for the Mars 2020 Helicopter Contributor](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#list-of-qualifying-repositories-for-mars-2020-helicopter-contributor-achievement).
 
 ~~Consider this repository a mirror, maybe in the future with historic purpose.~~ Unless there will be an official list again, this is it.
+
+## Details
+
+### More details on how to achieve
+
+For now, please refer to the [discussions](https://github.com/Schweinepriester/github-profile-achievements/discussions).  
+Best of our knowledge:
+- [Galaxy Brain](https://github.com/Schweinepriester/github-profile-achievements/discussions/9#discussioncomment-2927413)
+- [YOLO](https://github.com/Schweinepriester/github-profile-achievements/discussions/6#discussioncomment-2934257)
+
+### Tier labels
+
+Each tier has a label associated which includes a color.
+
+| Tier | Label | Sample | Hex | Visual |
+| --- | --- | --- | --- | --- |
+Bronze 🥉 | x2 | ![x2](/images/custom/tier-label/tier-label-bronze.svg) | #F9BFA7 | ![#F9BFA7](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23F9BFA7-yellow?style=flat-square&color=F9BFA7)
+Silver 🥈 | x3 | ![x3](/images/custom/tier-label/tier-label-silver.svg) | #E1E4E4 | ![#E1E4E4](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23E1E4E4-yellow?style=flat-square&color=E1E4E4)
+Gold 🥇 | x4 | ![x4](/images/custom/tier-label/tier-label-gold.svg) | #FAE57E  | ![#FAE57E](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23FAE57E-yellow?style=flat-square&color=FAE57E)
 
 ## Previous versions
 
