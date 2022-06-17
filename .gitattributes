@@ -1,0 +1,9 @@
+# Markdown
+*.md linguist-detectable=true
+*.md linguist-documentation=false
+*.mkd linguist-detectable=true
+*.mkd linguist-documentation=false
+*.mdown linguist-detectable=true
+*.mdown linguist-documentation=false
+*.markdown linguist-detectable=true
+*.markdown linguist-documentation=false
