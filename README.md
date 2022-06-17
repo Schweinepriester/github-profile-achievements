@@ -16,13 +16,13 @@ Don't like the Achievements? [Here](https://docs.github.com/account-and-profile/
 
 | Title | Badge | Earnable? | Earned by |
 | --- | --- | --- | --- |
+Galaxy Brain | ![Galaxy Brain Badge](/images/galaxy-brain-default.png) | ✔️ | 2 accepted answers
+Pull Shark | ![Pull Shark Badge](/images/pull-shark-default.png) | ✔️ | 2 pull requests merged
+YOLO | ![YOLO Badge](/images/yolo-default.png) | ✔️ | Merged pull request without code review
+||| <!-- this empty row is intentional to separate the original achievements from the new ones -->
 Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](/images/arctic-code-vault-contributor-default.png) | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
 Public Sponsor | ![GitHub Sponsor Achievement Badge](/images/public-sponsor-default.png) | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
 Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](/images/mars-2020-contributor-default.png) | ❌ | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter)
-||| <!-- this empty row is intentional to separate the original achievements from the new ones -->
-Galaxy Brain | ![Galaxy Brain Badge](/images/galaxy-brain-default.png) | ✔️ | 2 accepted answers
-Pull Shark | ![Pull Shark Badge](/images/pull-shark-default.png) | ✔️ | 2 opened pull requests that have been merged
-YOLO | ![YOLO Badge](/images/yolo-default.png) | ✔️ | Merged pull request without code review
 
 ## Tiers
 
@@ -47,10 +47,10 @@ There is still a section which includes specifics on how badges were/are awarded
 
 ## Details
 
-### More details on how to achieve
+### Specifics on how to achieve
 
 For now, please refer to the [discussions](https://github.com/Schweinepriester/github-profile-achievements/discussions).  
-Best of our knowledge:
+To the best of our knowledge:
 - [Galaxy Brain](https://github.com/Schweinepriester/github-profile-achievements/discussions/9#discussioncomment-2927413)
 - [YOLO](https://github.com/Schweinepriester/github-profile-achievements/discussions/6#discussioncomment-2934257)
 
