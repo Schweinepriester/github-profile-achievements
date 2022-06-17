@@ -16,13 +16,13 @@ Don't like the Achievements? [Here](https://docs.github.com/account-and-profile/
 
 | Title | Badge | Earnable? | Earned by |
 | --- | --- | --- | --- |
-Arctic Code Vault Contributor | <img alt="Arctic Code Vault Contributor Achievement Badge" src="/images/arctic-code-vault-contributor-default.png" style="width: 8em"> | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
-Public Sponsor | <img alt="GitHub Sponsor Achievement Badge" src="/images/public-sponsor-default.png" style="width: 8em"> | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
-Mars 2020 Contributor | <img alt="Mars 2020 Helicopter Contributor Achievement Badge" src="/images/mars-2020-contributor-default.png" style="width: 8em"> | ❌ | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter)
+Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](/images/arctic-code-vault-contributor-default.png) | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
+Public Sponsor | ![GitHub Sponsor Achievement Badge](/images/public-sponsor-default.png) | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
+Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](/images/mars-2020-contributor-default.png) | ❌ | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter)
 ||| <!-- this empty row is intentional to separate the original achievements from the new ones -->
-Galaxy Brain | <img alt="Galaxy Brain Badge" src="/images/galaxy-brain-default.png" style="width: 8em"> | ✔️ | 2 accepted answers
-Pull Shark | <img alt="Pull Shark Badge" src="/images/pull-shark-default.png" style="width: 8em"> | ✔️ | 2 opened pull requests that have been merged
-YOLO | <img alt="YOLO Badge" src="/images/yolo-default.png" style="width: 8em"> | ✔️ | Merged pull request without code review
+Galaxy Brain | ![Galaxy Brain Badge](/images/galaxy-brain-default.png) | ✔️ | 2 accepted answers
+Pull Shark | ![Pull Shark Badge](/images/pull-shark-default.png) | ✔️ | 2 opened pull requests that have been merged
+YOLO | ![YOLO Badge](/images/yolo-default.png) | ✔️ | Merged pull request without code review
 
 ## Tiers
 
@@ -30,12 +30,12 @@ Some Achievements not only have the base version, but also tiers.
 
 | Title | Tier | Badge | Earned by |
 | --- | --- | --- | --- |
-Galaxy Brain x2 | Bronze 🥉 | <img alt="Galaxy Brain Bronze Badge" src="/images/tiers/galaxy-brain-bronze.png" style="width: 8em"> | 8 accepted answers
-Galaxy Brain x3 | Silver 🥈 | <img alt="Galaxy Brain Silver Badge" src="/images/tiers/galaxy-brain-silver.png" style="width: 8em"> | 16 accepted answers
-Galaxy Brain x4 | Gold 🥇 | <img alt="Galaxy Brain Gold Badge" src="/images/tiers/galaxy-brain-gold.png" style="width: 8em"> | 32 accepted answers
-Pull Shark x2 | Bronze 🥉 | <img alt="Pull Shark Bronze Badge" src="/images/tiers/pull-shark-bronze.png" style="width: 8em"> | 16 pull requests merged
-Pull Shark x3 | Silver 🥈 | <img alt="Pull Shark Silver Badge" src="/images/tiers/pull-shark-silver.png" style="width: 8em"> | 128 pull requests merged
-Pull Shark x4 | Gold 🥇 | <img alt="Pull Shark Gold Badge" src="/images/tiers/pull-shark-gold.png" style="width: 8em"> | 1024 pull requests merged
+Galaxy Brain x2 | Bronze 🥉 | <img alt="Galaxy Brain Bronze Badge" src="/images/tiers/galaxy-brain-bronze.png" style="width: 180px;"> | 8 accepted answers
+Galaxy Brain x3 | Silver 🥈 | <img alt="Galaxy Brain Silver Badge" src="/images/tiers/galaxy-brain-silver.png" style="width: 180px;"> | 16 accepted answers
+Galaxy Brain x4 | Gold 🥇 | <img alt="Galaxy Brain Gold Badge" src="/images/tiers/galaxy-brain-gold.png" style="width: 180px;"> | 32 accepted answers
+Pull Shark x2 | Bronze 🥉 | <img alt="Pull Shark Bronze Badge" src="/images/tiers/pull-shark-bronze.png" style="width: 180px;"> | 16 pull requests merged
+Pull Shark x3 | Silver 🥈 | <img alt="Pull Shark Silver Badge" src="/images/tiers/pull-shark-silver.png" style="width: 180px;"> | 128 pull requests merged
+Pull Shark x4 | Gold 🥇 | <img alt="Pull Shark Gold Badge" src="/images/tiers/pull-shark-gold.png" style="width: 180px;"> | 1024 pull requests merged
 
 ## Official list
 
@@ -62,6 +62,6 @@ Here are the old designs and names:
 
 | Title | Badge |
 | --- | --- |
-Arctic Code Vault Contributor | <img alt="Arctic Code Vault Contributor Achievement Badge" src="/images/2021-04-19-2022-06-09/badge-arctic-code-vault-small.png" style="width: 8em">
-GitHub Sponsor | <img alt="GitHub Sponsor Achievement Badge" src="/images/2021-04-19-2022-06-09/badge-sponsors-small.png" style="width: 8em">
-Mars 2020 Helicopter Contributor | <img alt="Mars 2020 Helicopter Contributor Achievement Badge" src="images/2021-04-19-2022-06-09/badge-mars-2020-small.png" style="width: 8em">
+Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](/images/2021-04-19-2022-06-09/badge-arctic-code-vault-small.png)
+GitHub Sponsor | ![GitHub Sponsor Achievement Badge](/images/2021-04-19-2022-06-09/badge-sponsors-small.png)
+Mars 2020 Helicopter Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](images/2021-04-19-2022-06-09/badge-mars-2020-small.png)
