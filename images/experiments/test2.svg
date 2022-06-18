@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-stacking-context="true" aria-owns="d-flex1" viewBox="791.60004 98.4 448 442" style="background-color: #FFFFFF;">
-  <g data-tag="div" class="d-flex flex-column" data-z-index="auto" data-stacking-context="true" aria-owns="d-flex2 p-31">
-    <g data-tag="div" class="d-flex flex-items-center flex-justify-center p-3 rounded-top-2 position-relative" data-z-index="auto" data-stacking-context="true" aria-owns="achievement-detail-close1 m-11">
-      <g data-stacking-layer="rootBackgroundAndBorders">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="791.60004 98.4 448 442">
+  <g>
+    <g>
+      <g>
         <rect width="448" height="180" x="791.60004" y="98.4" rx="6" ry="6"/>
         <image width="448" height="180" preserveAspectRatio="xMidYMid slice" xlink:href="https://github.com/images/modules/profile/achievements/gradients/pull-shark-detail.png" x="791.60004" y="98.4"/>
       </g>
@@ -12,12 +12,15 @@
         </g>
       </g> -->
       <g data-tag="achievement-badge-flip" class="m-1 achievement-badges achievement-badges-flip" data-z-index="auto" data-stacking-context="true" aria-owns="tier-badge1 tier-badge2 tier-badge3">
+        <g>
+          <image xlink:href="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-silver.png" x="945.60004" y="118.4" width="140" height="140" aria-label="Achievement: Pull Shark"/>
+        </g>
+        <g>
+          <image xlink:href="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" x="945.60004" y="118.4" width="140" height="140" aria-label="Achievement: Pull Shark"/>
+        </g>
         <g data-tag="img" class="tier-badge" data-z-index="auto" data-stacking-context="true" aria-label="Achievement: Pull Shark">
           <image xlink:href="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" x="945.60004" y="118.4" width="140" height="140" aria-label="Achievement: Pull Shark"/>
         </g>
-        <!-- <g>
-          <image xlink:href="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" x="945.60004" y="118.4" width="140" height="140" aria-label="Achievement: Pull Shark"/>
-        </g> -->
       </g>
     </g>
     <g data-tag="div" class="p-3" data-z-index="auto" data-stacking-context="true" aria-owns="div1 border-top1">
