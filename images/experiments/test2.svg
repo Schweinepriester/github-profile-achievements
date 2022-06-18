@@ -5,7 +5,7 @@
         <rect width="448" height="180" x="791.60004" y="98.4" rx="6" ry="6"/>
         <image width="448" height="180" preserveAspectRatio="xMidYMid slice" xlink:href="https://github.com/images/modules/profile/achievements/gradients/pull-shark-detail.png" x="791.60004" y="98.4"/>
       </g>
-      <!-- <g data-tag="button" class="achievement-detail-close Box-btn-octicon btn-octicon color-bg-emphasis color-fg-on-emphasis rounded-3 position-absolute top-0 right-0 m-2 p-0" data-z-index="1" data-stacking-context="true" aria-label="Close dialog" aria-owns="octicon1" data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+      <!-- <g>
         <rect width="32" height="32" x="1199.59998" y="106.4" fill="#24292F" rx="8" ry="8" data-stacking-layer="rootBackgroundAndBorders"/>
         <g data-tag="svg" class="octicon octicon-x" data-z-index="auto" data-stacking-context="true" aria-hidden="true">
           <path fill-rule="evenodd" d="M1211.32 118.82a.75.75 0 0 1 1.06 0l3.22 3.22 3.22-3.22a.75.75 0 1 1 1.06 1.06l-3.22 3.22 3.22 3.22a.75.75 0 1 1-1.06 1.06l-3.22-3.22-3.22 3.22a.75.75 0 0 1-1.06-1.06l3.22-3.22-3.22-3.22a.75.75 0 0 1 0-1.06z" color="#FFF" fill="#FFF" class="svg-content octicon octicon-x" data-view-box="0 0 16 16" data-width="16" data-height="16"/>
@@ -15,7 +15,7 @@
         <g data-tag="img" class="tier-badge" data-z-index="auto" data-stacking-context="true" aria-label="Achievement: Pull Shark">
           <image xlink:href="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" x="945.60004" y="118.4" width="140" height="140" aria-label="Achievement: Pull Shark"/>
         </g>
-        <!-- <g data-tag="img" class="tier-badge tier-badge--back" data-z-index="auto" data-stacking-context="true" aria-label="Achievement: Pull Shark">
+        <!-- <g>
           <image xlink:href="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" x="945.60004" y="118.4" width="140" height="140" aria-label="Achievement: Pull Shark"/>
         </g> -->
       </g>
