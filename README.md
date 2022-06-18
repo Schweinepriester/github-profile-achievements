@@ -66,7 +66,7 @@ Gold 🥇 | x4 | ![x4](/images/custom/tier-label/tier-label-gold.svg) | #FAE57E 
 
 ### 100 % samples
 
-[Here](/images/captured/complete) are screenshots of all Achievements at "100 % unlocked" as seen in full in the dialog, both light and dark mode.  
+[Here](/images/captured/complete) are screenshots of all Achievements at 100 % unlocked as seen in full in the dialog, both light and dark mode.  
 See them live, including the animation some have, for example here:
 
 | Title | Sample |
