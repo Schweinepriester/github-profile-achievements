@@ -1,4 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="791.60004 98.4 448 442">
+  <style>
+    .achievement-badges-flip {
+      position: relative;
+      transform-style: preserve-3d;
+    }
+
+    .achievement-badges-flip > image:last-of-type {
+      animation: flip 1.5s cubic-bezier(0, 0, 0.25, 1) normal infinite;
+    }
+
+    @keyframes flip {
+      0% {
+        transform: rotateY(0deg);
+      }
+      22% {
+        transform: rotateY(180deg);
+      }
+      100% {
+        transform: rotateY(360deg);
+      }
+    }
+  </style>
   <g>
     <g>
       <g>
@@ -11,16 +33,10 @@
           <path fill-rule="evenodd" d="M1211.32 118.82a.75.75 0 0 1 1.06 0l3.22 3.22 3.22-3.22a.75.75 0 1 1 1.06 1.06l-3.22 3.22 3.22 3.22a.75.75 0 1 1-1.06 1.06l-3.22-3.22-3.22 3.22a.75.75 0 0 1-1.06-1.06l3.22-3.22-3.22-3.22a.75.75 0 0 1 0-1.06z" color="#FFF" fill="#FFF" class="svg-content octicon octicon-x" data-view-box="0 0 16 16" data-width="16" data-height="16"/>
         </g>
       </g> -->
-      <g data-tag="achievement-badge-flip" class="m-1 achievement-badges achievement-badges-flip" data-z-index="auto" data-stacking-context="true" aria-owns="tier-badge1 tier-badge2 tier-badge3">
-        <g>
-          <image xlink:href="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-silver.png" x="945.60004" y="118.4" width="140" height="140" aria-label="Achievement: Pull Shark"/>
-        </g>
-        <g>
-          <image xlink:href="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" x="945.60004" y="118.4" width="140" height="140" aria-label="Achievement: Pull Shark"/>
-        </g>
-        <g data-tag="img" class="tier-badge" data-z-index="auto" data-stacking-context="true" aria-label="Achievement: Pull Shark">
-          <image xlink:href="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" x="945.60004" y="118.4" width="140" height="140" aria-label="Achievement: Pull Shark"/>
-        </g>
+      <g data-tag="achievement-badge-flip" class="m-1 achievement-badges achievement-badges-flip">
+        <image xlink:href="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-silver.png" x="945.60004" y="118.4" width="140" height="140" aria-label="Achievement: Pull Shark"/>
+        <image xlink:href="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" x="945.60004" y="118.4" width="140" height="140" aria-label="Achievement: Pull Shark"/>
+        <image xlink:href="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" x="945.60004" y="118.4" width="140" height="140" aria-label="Achievement: Pull Shark"/>
       </g>
     </g>
     <g data-tag="div" class="p-3" data-z-index="auto" data-stacking-context="true" aria-owns="div1 border-top1">
