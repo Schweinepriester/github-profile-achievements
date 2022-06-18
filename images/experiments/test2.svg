@@ -1,10 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="791.60004 98.4 448 442">
   <style>
-    .achievement-badges-flip {
-      position: relative;
-      transform-style: preserve-3d;
-    }
-
     .achievement-badges-flip > image:last-of-type {
       animation: flip 1.5s cubic-bezier(0, 0, 0.25, 1) normal infinite;
     }
@@ -13,7 +8,7 @@
       0% {
         transform: rotateY(0deg);
       }
-      22% {
+      50% {
         transform: rotateY(180deg);
       }
       100% {
