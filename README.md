@@ -64,6 +64,22 @@ Bronze 🥉 | x2 | ![x2](/images/custom/tier-label/tier-label-bronze.svg) | #F9B
 Silver 🥈 | x3 | ![x3](/images/custom/tier-label/tier-label-silver.svg) | #E1E4E4 | ![#E1E4E4](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23E1E4E4-yellow?style=flat-square&color=E1E4E4)
 Gold 🥇 | x4 | ![x4](/images/custom/tier-label/tier-label-gold.svg) | #FAE57E  | ![#FAE57E](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23FAE57E-yellow?style=flat-square&color=FAE57E)
 
+### 100 % samples
+
+Here are screenshots of all Achievements at "100 % unlocked" as seen in full in the dialog, both light and dark mode ([swichting automatically](https://docs.github.com/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#specifying-the-theme-an-image-is-shown-to)).
+
+Currently work in progress.
+
+| Title | Sample | Source |
+| --- | --- | --- |
+Galaxy Brain | <picture><source media="(prefers-color-scheme: dark)" srcset="/images/captured/complete/galaxy-brain-complete-dark.png"><source media="(prefers-color-scheme: light)" srcset="/images/captured/complete/galaxy-brain-complete-light.png"><img width="560" alt="Galaxy Brain 100 % full sample" src="/images/captured/complete/galaxy-brain-complete-light.png"></picture> | [@ljharb](https://github.com/ljharb?achievement=galaxy-brain&tab=achievements)
+Pull Shark | <picture><source media="(prefers-color-scheme: dark)" srcset="/images/captured/complete/pull-shark-complete-dark.png"><source media="(prefers-color-scheme: light)" srcset="/images/captured/complete/pull-shark-complete-light.png"><img width="560" alt="Pull Shark 100 % full sample" src="/images/captured/complete/pull-shark-complete-light.png"></picture> | [@ljharb](https://github.com/ljharb?achievement=pull-shark&tab=achievements)
+YOLO | |
+||| <!-- this empty row is intentional to separate the original achievements from the new ones -->
+Arctic Code Vault Contributor | |
+Public Sponsor | |
+Mars 2020 Contributor | |
+
 ## Previous versions
 
 ### 2021-04-19 - 2022-06-09
