@@ -16,13 +16,13 @@ Don't like the Achievements? [Here](https://docs.github.com/account-and-profile/
 
 | Title | Badge | Earnable? | Earned by |
 | --- | --- | --- | --- |
+Galaxy Brain | ![Galaxy Brain Badge](/images/galaxy-brain-default.png) | ✔️ | 2 accepted answers
+Pull Shark | ![Pull Shark Badge](/images/pull-shark-default.png) | ✔️ | 2 pull requests merged
+YOLO | ![YOLO Badge](/images/yolo-default.png) | ✔️ | Merged pull request without code review
+||| <!-- this empty row is intentional to separate the original achievements from the new ones -->
 Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](/images/arctic-code-vault-contributor-default.png) | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
 Public Sponsor | ![GitHub Sponsor Achievement Badge](/images/public-sponsor-default.png) | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
 Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](/images/mars-2020-contributor-default.png) | ❌ | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter)
-||| <!-- this empty row is intentional to separate the original achievements from the new ones -->
-Galaxy Brain | ![Galaxy Brain Badge](/images/galaxy-brain-default.png) | ✔️ | 2 accepted answers
-Pull Shark | ![Pull Shark Badge](/images/pull-shark-default.png) | ✔️ | 2 opened pull requests that have been merged
-YOLO | ![YOLO Badge](/images/yolo-default.png) | ✔️ | Merged pull request without code review
 
 ## Tiers
 
@@ -30,12 +30,12 @@ Some Achievements not only have the base version, but also tiers.
 
 | Title | Tier | Badge | Earned by |
 | --- | --- | --- | --- |
-Galaxy Brain x2 | Bronze 🥉 | ![Galaxy Brain Bronze Badge](/images/tiers/galaxy-brain-bronze.png) | 8 accepted answers
-Galaxy Brain x3 | Silver 🥈 | ![Galaxy Brain Silver Badge](/images/tiers/galaxy-brain-silver.png) | 16 accepted answers
-Galaxy Brain x4 | Gold 🥇 | ![Galaxy Brain Gold Badge](/images/tiers/galaxy-brain-gold.png) | 32 accepted answers
-Pull Shark x2 | Bronze 🥉 | ![Pull Shark Bronze Badge](/images/tiers/pull-shark-bronze.png) | 16 pull requests merged
-Pull Shark x3 | Silver 🥈 | ![Pull Shark Silver Badge](/images/tiers/pull-shark-silver.png) | 128 pull requests merged
-Pull Shark x4 | Gold 🥇 | ![Pull Shark Gold Badge](/images/tiers/pull-shark-gold.png) | 1024 pull requests merged
+Galaxy Brain x2 | Bronze 🥉 | <img alt="Galaxy Brain Bronze Badge" src="/images/tiers/galaxy-brain-bronze.png" style="width: 180px;"> | 8 accepted answers
+Galaxy Brain x3 | Silver 🥈 | <img alt="Galaxy Brain Silver Badge" src="/images/tiers/galaxy-brain-silver.png" style="width: 180px;"> | 16 accepted answers
+Galaxy Brain x4 | Gold 🥇 | <img alt="Galaxy Brain Gold Badge" src="/images/tiers/galaxy-brain-gold.png" style="width: 180px;"> | 32 accepted answers
+Pull Shark x2 | Bronze 🥉 | <img alt="Pull Shark Bronze Badge" src="/images/tiers/pull-shark-bronze.png" style="width: 180px;"> | 16 pull requests merged
+Pull Shark x3 | Silver 🥈 | <img alt="Pull Shark Silver Badge" src="/images/tiers/pull-shark-silver.png" style="width: 180px;"> | 128 pull requests merged
+Pull Shark x4 | Gold 🥇 | <img alt="Pull Shark Gold Badge" src="/images/tiers/pull-shark-gold.png" style="width: 180px;"> | 1024 pull requests merged
 
 ## Official list
 
@@ -47,10 +47,10 @@ There is still a section which includes specifics on how badges were/are awarded
 
 ## Details
 
-### More details on how to achieve
+### Specifics on how to achieve
 
 For now, please refer to the [discussions](https://github.com/Schweinepriester/github-profile-achievements/discussions).  
-Best of our knowledge:
+To the best of our knowledge:
 - [Galaxy Brain](https://github.com/Schweinepriester/github-profile-achievements/discussions/9#discussioncomment-2927413)
 - [YOLO](https://github.com/Schweinepriester/github-profile-achievements/discussions/6#discussioncomment-2934257)
 
@@ -63,6 +63,23 @@ Each tier has a label associated which includes a color.
 Bronze 🥉 | x2 | ![x2](/images/custom/tier-label/tier-label-bronze.svg) | #F9BFA7 | ![#F9BFA7](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23F9BFA7-yellow?style=flat-square&color=F9BFA7)
 Silver 🥈 | x3 | ![x3](/images/custom/tier-label/tier-label-silver.svg) | #E1E4E4 | ![#E1E4E4](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23E1E4E4-yellow?style=flat-square&color=E1E4E4)
 Gold 🥇 | x4 | ![x4](/images/custom/tier-label/tier-label-gold.svg) | #FAE57E  | ![#FAE57E](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23FAE57E-yellow?style=flat-square&color=FAE57E)
+
+### 100 % samples
+
+[Here](/images/captured/complete) are screenshots of all Achievements at 100 % unlocked as seen in full in the dialog, both light and dark mode.  
+See them live, including the animation some have, for example here:
+
+| Title | Sample |
+| --- | --- |
+Galaxy Brain | [@ljharb](https://github.com/ljharb?achievement=galaxy-brain&tab=achievements)
+Pull Shark | [@ljharb](https://github.com/ljharb?achievement=pull-shark&tab=achievements)
+YOLO | [@Schweinepriester](https://github.com/Schweinepriester?achievement=yolo&tab=achievements)
+||| <!-- this empty row is intentional to separate the original achievements from the new ones -->
+Arctic Code Vault Contributor | [@Schweinepriester](https://github.com/Schweinepriester?tab=achievements&achievement=arctic-code-vault-contributor)
+Public Sponsor | [@ljharb](https://github.com/ljharb?tab=achievements&achievement=public-sponsor)
+Mars 2020 Contributor | [@torvalds](https://github.com/torvalds?achievement=mars-2020-contributor&tab=achievements)
+
+Do you know a user with all Achievements at the same time? Let me know!
 
 ## Previous versions
 
