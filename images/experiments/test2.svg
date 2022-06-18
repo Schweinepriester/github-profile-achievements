@@ -2,22 +2,22 @@
   <g data-tag="div" class="d-flex flex-column" data-z-index="auto" data-stacking-context="true" aria-owns="d-flex2 p-31">
     <g data-tag="div" class="d-flex flex-items-center flex-justify-center p-3 rounded-top-2 position-relative" data-z-index="auto" data-stacking-context="true" aria-owns="achievement-detail-close1 m-11">
       <g data-stacking-layer="rootBackgroundAndBorders">
-        <rect width="448" height="180" x="791.60004" y="98.4" fill="rgba(0, 0, 0, 0)" rx="6" ry="6"/>
+        <rect width="448" height="180" x="791.60004" y="98.4" rx="6" ry="6"/>
         <image width="448" height="180" preserveAspectRatio="xMidYMid slice" xlink:href="https://github.com/images/modules/profile/achievements/gradients/pull-shark-detail.png" x="791.60004" y="98.4"/>
       </g>
-      <g data-tag="button" class="achievement-detail-close Box-btn-octicon btn-octicon color-bg-emphasis color-fg-on-emphasis rounded-3 position-absolute top-0 right-0 m-2 p-0" data-z-index="1" data-stacking-context="true" aria-label="Close dialog" aria-owns="octicon1" data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+      <!-- <g data-tag="button" class="achievement-detail-close Box-btn-octicon btn-octicon color-bg-emphasis color-fg-on-emphasis rounded-3 position-absolute top-0 right-0 m-2 p-0" data-z-index="1" data-stacking-context="true" aria-label="Close dialog" aria-owns="octicon1" data-stacking-layer="childStackingContextsWithPositiveStackLevels">
         <rect width="32" height="32" x="1199.59998" y="106.4" fill="#24292F" rx="8" ry="8" data-stacking-layer="rootBackgroundAndBorders"/>
         <g data-tag="svg" class="octicon octicon-x" data-z-index="auto" data-stacking-context="true" aria-hidden="true">
           <path fill-rule="evenodd" d="M1211.32 118.82a.75.75 0 0 1 1.06 0l3.22 3.22 3.22-3.22a.75.75 0 1 1 1.06 1.06l-3.22 3.22 3.22 3.22a.75.75 0 1 1-1.06 1.06l-3.22-3.22-3.22 3.22a.75.75 0 0 1-1.06-1.06l3.22-3.22-3.22-3.22a.75.75 0 0 1 0-1.06z" color="#FFF" fill="#FFF" class="svg-content octicon octicon-x" data-view-box="0 0 16 16" data-width="16" data-height="16"/>
         </g>
-      </g>
+      </g> -->
       <g data-tag="achievement-badge-flip" class="m-1 achievement-badges achievement-badges-flip" data-z-index="auto" data-stacking-context="true" aria-owns="tier-badge1 tier-badge2 tier-badge3">
         <g data-tag="img" class="tier-badge" data-z-index="auto" data-stacking-context="true" aria-label="Achievement: Pull Shark">
           <image xlink:href="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" x="945.60004" y="118.4" width="140" height="140" aria-label="Achievement: Pull Shark"/>
         </g>
-        <g data-tag="img" class="tier-badge tier-badge--back" data-z-index="auto" data-stacking-context="true" aria-label="Achievement: Pull Shark">
+        <!-- <g data-tag="img" class="tier-badge tier-badge--back" data-z-index="auto" data-stacking-context="true" aria-label="Achievement: Pull Shark">
           <image xlink:href="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" x="945.60004" y="118.4" width="140" height="140" aria-label="Achievement: Pull Shark"/>
-        </g>
+        </g> -->
       </g>
     </g>
     <g data-tag="div" class="p-3" data-z-index="auto" data-stacking-context="true" aria-owns="div1 border-top1">
@@ -33,11 +33,11 @@
               <mask id="b"/>
             </a>
           </g>
-          <g data-tag="summary" class="btn-link btn-sm btn color-fg-muted" data-z-index="auto" data-stacking-context="true" aria-haspopup="menu" aria-owns="octicon2">
+          <!-- <g data-tag="summary" class="btn-link btn-sm btn color-fg-muted" data-z-index="auto" data-stacking-context="true" aria-haspopup="menu" aria-owns="octicon2">
             <g data-tag="svg" class="octicon octicon-share-android" data-z-index="auto" data-stacking-context="true" aria-hidden="true">
               <path fill-rule="evenodd" d="M1225.1 308.7a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm1.5 0a3 3 0 0 1-5.175 2.066l-3.92 2.179a3.005 3.005 0 0 1 0 1.51l3.92 2.179a3 3 0 1 1-.73 1.31l-3.92-2.178a3 3 0 1 1 0-4.133l3.92-2.178a3 3 0 1 1 5.905-.755zm-1.5 10a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm-9-5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z" color="#57606A" fill="#57606A" class="svg-content octicon octicon-share-android" data-view-box="0 0 16 16" data-width="16" data-height="16"/>
             </g>
-          </g>
+          </g> -->
         </g>
         <g data-tag="div" class="d-flex flex-items-center" data-z-index="auto" data-stacking-context="true" aria-owns="h31 Label1">
           <text color="#24292F" dominant-baseline="text-after-edge" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;" font-size="20" font-stretch="100%" font-weight="600" text-decoration="none solid rgb(36, 41, 47)" word-spacing="0" writing-mode="horizontal-tb" fill="#24292F" data-tag="h3" data-z-index="auto" data-stacking-context="true" aria-level="3"><tspan xml:space="preserve" x="807.60004" y="322.39999" textLength="90.1875" lengthAdjust="spacingAndGlyphs">Pull Shark</tspan></text>
@@ -48,7 +48,7 @@
         </g>
         <text color="#24292F" dominant-baseline="text-after-edge" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;" font-size="14" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(36, 41, 47)" word-spacing="0" writing-mode="horizontal-tb" fill="#24292F" data-tag="div" class="mt-1" data-z-index="auto" data-stacking-context="true"><tspan xml:space="preserve" x="807.60004" y="347.60001" textLength="402.77496" lengthAdjust="spacingAndGlyphs">@Schweinepriester opened pull requests that have been merged.</tspan></text>
       </g>
-      <g data-tag="div" class="border-top mt-3 pt-3 text-small achievement-history" data-z-index="auto" data-stacking-context="true" aria-owns="color-fg-muted1 TimelineItem1 TimelineItem2 TimelineItem3 TimelineItem4">
+      <g>
         <path stroke-linecap="square" stroke="#D0D7DE" d="M807.60004 365.39999h416" data-stacking-layer="rootBackgroundAndBorders"/>
         <text color="#57606A" dominant-baseline="text-after-edge" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;" font-size="12" font-stretch="100%" font-weight="600" text-decoration="none solid rgb(87, 96, 106)" word-spacing="0" writing-mode="horizontal-tb" fill="#57606A" data-tag="h4" class="color-fg-muted mb-2 text-small text-bold" data-z-index="auto" data-stacking-context="true" aria-level="4"><tspan xml:space="preserve" x="807.60004" y="399.20001" textLength="39.58746" lengthAdjust="spacingAndGlyphs">History</tspan></text>
         <g data-tag="div" class="TimelineItem TimelineItem--condensed achievement-history-unlocked-at" data-z-index="auto" data-stacking-context="true" aria-owns="span3 TimelineItem-badge1 TimelineItem-body1">
@@ -68,13 +68,14 @@
           </g>
         </g>
         <g data-tag="div" class="TimelineItem TimelineItem--condensed achievement-history-tier" data-z-index="auto" data-stacking-context="true" aria-owns="span5 TimelineItem-badge2 TimelineItem-body2">
+          <path fill="#D8DEE4" d="M823.60004 440.39999h2v28h-2z" data-stacking-layer="rootBackgroundAndBorders" data-tag="span" data-z-index="auto" data-stacking-context="true"/>
           <g data-tag="div" class="TimelineItem-badge color-fg-subtle mt-0 mr-0" data-z-index="1" data-stacking-context="true" aria-owns="octicon4" data-stacking-layer="childStackingContextsWithPositiveStackLevels">
             <rect width="32" height="16" x="808.60004" y="444.39999" fill="#FFF" rx="16" ry="8" data-stacking-layer="rootBackgroundAndBorders"/>
             <g data-tag="svg" class="octicon octicon-dot-fill" data-z-index="auto" data-stacking-context="true" aria-hidden="true">
               <path fill-rule="evenodd" d="M824.6 448.4a4 4 0 1 0 0 8 4 4 0 0 0 0-8z" color="#6E7781" fill="#6E7781" class="svg-content octicon octicon-dot-fill" data-view-box="0 0 16 16" data-width="16" data-height="16"/>
             </g>
           </g>
-          <path fill="#D8DEE4" d="M823.60004 440.39999h2v28h-2z" data-stacking-layer="rootBackgroundAndBorders" data-tag="span" data-z-index="auto" data-stacking-context="true"/>
+          
           <g data-tag="div" class="TimelineItem-body text-small color-fg-muted mt-0" data-z-index="auto" data-stacking-context="true" aria-owns="a1 span6">
             <a data-tag="a" data-z-index="auto" data-stacking-context="true">
               <text color="#0969DA" dominant-baseline="text-after-edge" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;" font-size="12" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(9, 105, 218)" word-spacing="0" writing-mode="horizontal-tb" fill="#0969DA"><tspan xml:space="preserve" x="840.60004" y="461.20001" textLength="90.52496" lengthAdjust="spacingAndGlyphs">canjs/canjs#2053</tspan></text>
@@ -84,13 +85,13 @@
           </g>
         </g>
         <g data-tag="div" class="TimelineItem TimelineItem--condensed achievement-history-tier" data-z-index="auto" data-stacking-context="true" aria-owns="span7 TimelineItem-badge3 TimelineItem-body3">
+          <path fill="#D8DEE4" d="M823.60004 468.39999h2v28h-2z" data-stacking-layer="rootBackgroundAndBorders" data-tag="span" data-z-index="auto" data-stacking-context="true"/>
           <g data-tag="div" class="TimelineItem-badge color-fg-subtle mt-0 mr-0" data-z-index="1" data-stacking-context="true" aria-owns="octicon5" data-stacking-layer="childStackingContextsWithPositiveStackLevels">
             <rect width="32" height="16" x="808.60004" y="472.39999" fill="#FFF" rx="16" ry="8" data-stacking-layer="rootBackgroundAndBorders"/>
             <g data-tag="svg" class="octicon octicon-dot-fill" data-z-index="auto" data-stacking-context="true" aria-hidden="true">
               <path fill-rule="evenodd" d="M824.6 476.4a4 4 0 1 0 0 8 4 4 0 0 0 0-8z" color="#6E7781" fill="#6E7781" class="svg-content octicon octicon-dot-fill" data-view-box="0 0 16 16" data-width="16" data-height="16"/>
             </g>
           </g>
-          <path fill="#D8DEE4" d="M823.60004 468.39999h2v28h-2z" data-stacking-layer="rootBackgroundAndBorders" data-tag="span" data-z-index="auto" data-stacking-context="true"/>
           <g data-tag="div" class="TimelineItem-body text-small color-fg-muted mt-0" data-z-index="auto" data-stacking-context="true" aria-owns="a2 span8">
             <a data-tag="a" data-z-index="auto" data-stacking-context="true">
               <text color="#0969DA" dominant-baseline="text-after-edge" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;" font-size="12" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(9, 105, 218)" word-spacing="0" writing-mode="horizontal-tb" fill="#0969DA"><tspan xml:space="preserve" x="840.60004" y="489.20001" textLength="100.04999" lengthAdjust="spacingAndGlyphs">Fyrd/caniuse#2939</tspan></text>
