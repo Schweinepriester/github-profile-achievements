@@ -6,7 +6,7 @@ from pathlib import Path
 from functools import lru_cache
 from typing import Optional
 
-matcher = re.compile(r'(?<=xlink:href=")([^"]+)(?=")')
+matcher = re.compile(r'(?<=xlink:href=")(https?://[^"]+)(?=")')
 
 
 @lru_cache(maxsize=64)
