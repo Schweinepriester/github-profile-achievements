@@ -81,6 +81,10 @@ Mars 2020 Contributor | [Live 100 % unlocked sample by @torvalds](https://github
 
 Do you know a user with all Achievements at the same time? Let me know!
 
+## Highlights
+
+The Highlights section below the Achievements including the corresponding badges is currently [best documented in the official GitHub docs](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
+
 ## Previous versions
 
 ### 2021-04-19 - 2022-06-09
