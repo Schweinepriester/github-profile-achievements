@@ -62,7 +62,7 @@ Each tier has a label associated which includes a color.
 | --- | --- | --- | --- | --- |
 Bronze 🥉 | x2 | ![x2](/images/custom/tier-label/tier-label-bronze.svg) | #F9BFA7 | ![#F9BFA7](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23F9BFA7-yellow?style=flat-square&color=F9BFA7)
 Silver 🥈 | x3 | ![x3](/images/custom/tier-label/tier-label-silver.svg) | #E1E4E4 | ![#E1E4E4](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23E1E4E4-yellow?style=flat-square&color=E1E4E4)
-Gold 🥇 | x4 | ![x4](/images/custom/tier-label/tier-label-gold.svg) | #FAE57E  | ![#FAE57E](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23FAE57E-yellow?style=flat-square&color=FAE57E)
+Gold 🥇 | x4 | ![x4](/images/custom/tier-label/tier-label-gold.svg) | #FAE57E | ![#FAE57E](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23FAE57E-yellow?style=flat-square&color=FAE57E)
 
 ### 100 % samples
 
@@ -71,13 +71,13 @@ See them live, including the animation some have, for example here:
 
 | Title | Sample |
 | --- | --- |
-Galaxy Brain | [@ljharb](https://github.com/ljharb?achievement=galaxy-brain&tab=achievements)
-Pull Shark | [@ljharb](https://github.com/ljharb?achievement=pull-shark&tab=achievements)
-YOLO | [@Schweinepriester](https://github.com/Schweinepriester?achievement=yolo&tab=achievements)
+Galaxy Brain | [Live 100 % unlocked sample by @ljharb](https://github.com/ljharb?achievement=galaxy-brain&tab=achievements)
+Pull Shark | [Live 100 % unlocked sample by @ljharb](https://github.com/ljharb?achievement=pull-shark&tab=achievements)
+YOLO | [Live 100 % unlocked sample by @Schweinepriester](https://github.com/Schweinepriester?achievement=yolo&tab=achievements)
 ||| <!-- this empty row is intentional to separate the original achievements from the new ones -->
-Arctic Code Vault Contributor | [@Schweinepriester](https://github.com/Schweinepriester?tab=achievements&achievement=arctic-code-vault-contributor)
-Public Sponsor | [@ljharb](https://github.com/ljharb?tab=achievements&achievement=public-sponsor)
-Mars 2020 Contributor | [@torvalds](https://github.com/torvalds?achievement=mars-2020-contributor&tab=achievements)
+Arctic Code Vault Contributor | [Live 100 % unlocked sample by @Schweinepriester](https://github.com/Schweinepriester?tab=achievements&achievement=arctic-code-vault-contributor)
+Public Sponsor | [Live 100 % unlocked sample by @ljharb](https://github.com/ljharb?tab=achievements&achievement=public-sponsor)
+Mars 2020 Contributor | [Live 100 % unlocked sample by @torvalds](https://github.com/torvalds?achievement=mars-2020-contributor&tab=achievements)
 
 Do you know a user with all Achievements at the same time? Let me know!
 
