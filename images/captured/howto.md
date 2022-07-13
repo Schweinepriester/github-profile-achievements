@@ -9,15 +9,19 @@ var detailsDialogBackgroundColor = window.getComputedStyle(detailsDialog).getPro
 // 1736 -> `.details-overlay-dark[open] > summary::before`
 // https://stackoverflow.com/a/33004385
 document.styleSheets[4].cssRules[1736].style.backgroundColor = detailsDialogBackgroundColor
-detailsDialog.querySelector('button').remove()
+detailsDialog.querySelector('button')?.remove()
 detailsDialog.style.borderRadius = 0
 detailsDialog.style.boxShadow = 'none'
-detailsDialog.querySelector('.rounded-top-2').classList.remove('rounded-top-2')
+detailsDialog.querySelector('.rounded-top-2')?.classList.remove('rounded-top-2')
 ```
+
+- https://firefox-source-docs.mozilla.org/devtools-user/taking_screenshots/index.html#taking-screenshots-with-the-web-console
+- https://meyerweb.com/eric/thoughts/2018/08/24/firefoxs-screenshot-command-2018/
+- https://blog.nightly.mozilla.org/2018/08/23/screenshots-from-the-console/
 
 windows display scale at 125 %:
 
 ```
-:screenshot --selector 'details[open] details-dialog > div' --dpr 1.875
+// :screenshot --selector 'details[open] details-dialog > div' --dpr 1.875 // use the one below
 :screenshot --selector 'details[open] details-dialog > div' --dpr 2.5
 ```
