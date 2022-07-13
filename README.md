@@ -16,9 +16,9 @@ Don't like the Achievements? [Here](https://docs.github.com/account-and-profile/
 
 | Title | Badge | Earnable? | Earned by |
 | --- | --- | --- | --- |
-Pair Extraordinaire | ![Pair Extraordinaire Badge](/images/pair-extraordinaire-default.png) | ✔️ | Coauthored commits on a merged pull request
+Pair Extraordinaire | ![Pair Extraordinaire Badge](/images/pair-extraordinaire-default.png) | ✔️ | Coauthored on a merged pull request
 Quickdraw | ![Quickdraw Badge](/images/quickdraw-default.png) | ✔️ | Closed a pull request within 5 minutes of opening
-Starstruck | ![Starstruck Badge](/images/starstruck-default.png) | ✔️ | 16 stars
+Starstruck | ![Starstruck Badge](/images/starstruck-default.png) | ✔️ | Created a repository that has 16 stars
 ||| <!-- this empty row is intentional to separate -->
 Galaxy Brain | ![Galaxy Brain Badge](/images/galaxy-brain-default.png) | ✔️ | 2 accepted answers
 Pull Shark | ![Pull Shark Badge](/images/pull-shark-default.png) | ✔️ | 2 pull requests merged
@@ -34,12 +34,13 @@ Some Achievements not only have the base version, but also tiers.
 
 | Title | Tier | Badge | Earned by |
 | --- | --- | --- | --- |
-Pair Extraordinaire x2 | Bronze 🥉 | <img alt="Pair Extraordinaire Bronze Badge" src="/images/tiers/pair-extraordinaire-bronze.png" style="width: 180px;"> | Coauthored commits on 2 merged pull requests
-Pair Extraordinaire x3 | Silver 🥈 | <img alt="Pair Extraordinaire Silver Badge" src="/images/tiers/pair-extraordinaire-silver.png" style="width: 180px;"> | Coauthored commits on 3 merged pull requests
-Pair Extraordinaire x4 | Gold 🥇 | <img alt="Pair Extraordinaire Gold Badge" src="/images/tiers/pair-extraordinaire-gold.png" style="width: 180px;"> | Coauthored commits on 4 merged pull requests
-Starstruck x2 | Bronze 🥉 | <img alt="Starstruck Bronze Badge" src="/images/tiers/starstruck-bronze.png" style="width: 180px;"> | 128 stars
-Starstruck x3 | Silver 🥈 | <img alt="Starstruck Silver Badge" src="/images/tiers/starstruck-silver.png" style="width: 180px;"> | 512 stars
-Starstruck x4 | Gold 🥇 | <img alt="Starstruck Gold Badge" src="/images/tiers/starstruck-gold.png" style="width: 180px;"> | 4096 stars
+Pair Extraordinaire x2 | Bronze 🥉 | <img alt="Pair Extraordinaire Bronze Badge" src="/images/tiers/pair-extraordinaire-bronze.png" style="width: 180px;"> | Coauthored on 2 merged pull requests
+Pair Extraordinaire x3 | Silver 🥈 | <img alt="Pair Extraordinaire Silver Badge" src="/images/tiers/pair-extraordinaire-silver.png" style="width: 180px;"> | Coauthored on 3 merged pull requests
+Pair Extraordinaire x4 | Gold 🥇 | <img alt="Pair Extraordinaire Gold Badge" src="/images/tiers/pair-extraordinaire-gold.png" style="width: 180px;"> | Coauthored on 4 merged pull requests
+Starstruck x2 | Bronze 🥉 | <img alt="Starstruck Bronze Badge" src="/images/tiers/starstruck-bronze.png" style="width: 180px;"> | Created a repository that has 128 stars
+Starstruck x3 | Silver 🥈 | <img alt="Starstruck Silver Badge" src="/images/tiers/starstruck-silver.png" style="width: 180px;"> | Created a repository that has 512 stars
+Starstruck x4 | Gold 🥇 | <img alt="Starstruck Gold Badge" src="/images/tiers/starstruck-gold.png" style="width: 180px;"> | Created a repository that has 4096 stars
+||| <!-- this empty row is intentional to separate -->
 Galaxy Brain x2 | Bronze 🥉 | <img alt="Galaxy Brain Bronze Badge" src="/images/tiers/galaxy-brain-bronze.png" style="width: 180px;"> | 8 accepted answers
 Galaxy Brain x3 | Silver 🥈 | <img alt="Galaxy Brain Silver Badge" src="/images/tiers/galaxy-brain-silver.png" style="width: 180px;"> | 16 accepted answers
 Galaxy Brain x4 | Gold 🥇 | <img alt="Galaxy Brain Gold Badge" src="/images/tiers/galaxy-brain-gold.png" style="width: 180px;"> | 32 accepted answers
