@@ -80,7 +80,7 @@ See them live, including the animation some have, for example here:
 
 | Title | Sample |
 | --- | --- |
-Pair Extraordinaire | ?
+Pair Extraordinaire | [Live 100 % unlocked sample by @Rongronggg9](https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements)
 Quickdraw | [Live 100 % unlocked sample by @Schweinepriester](https://github.com/Schweinepriester?achievement=quickdraw&tab=achievements)
 Starstruck | [Live 100 % unlocked sample by @torvalds](https://github.com/torvalds?achievement=starstruck&tab=achievements)
 Galaxy Brain | [Live 100 % unlocked sample by @ljharb](https://github.com/ljharb?achievement=galaxy-brain&tab=achievements)
