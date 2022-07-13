@@ -16,8 +16,8 @@ Don't like the Achievements? [Here](https://docs.github.com/account-and-profile/
 
 | Title | Badge | Earnable? | Earned by |
 | --- | --- | --- | --- |
-Pair Extraordinaire | ![Pair Extraordinaire Badge](/images/pair-extraordinaire-default.png) | ✔️ | Coauthored commits on merged pull requests
-Quickdraw | ![Quickdraw Badge](/images/quickdraw-default.png) | ✔️ | Closed an pull request within 5 minutes of opening
+Pair Extraordinaire | ![Pair Extraordinaire Badge](/images/pair-extraordinaire-default.png) | ✔️ | Coauthored commits on a merged pull request
+Quickdraw | ![Quickdraw Badge](/images/quickdraw-default.png) | ✔️ | Closed a pull request within 5 minutes of opening
 Starstruck | ![Starstruck Badge](/images/starstruck-default.png) | ✔️ | 16 stars
 Galaxy Brain | ![Galaxy Brain Badge](/images/galaxy-brain-default.png) | ✔️ | 2 accepted answers
 Pull Shark | ![Pull Shark Badge](/images/pull-shark-default.png) | ✔️ | 2 pull requests merged
@@ -33,9 +33,9 @@ Some Achievements not only have the base version, but also tiers.
 
 | Title | Tier | Badge | Earned by |
 | --- | --- | --- | --- |
-Pair Extraordinaire x2 | Bronze 🥉 | <img alt="Pair Extraordinaire Bronze Badge" src="/images/tiers/pair-extraordinaire-bronze.png" style="width: 180px;"> | ?
-Pair Extraordinaire x3 | Silver 🥈 | <img alt="Pair Extraordinaire Silver Badge" src="/images/tiers/pair-extraordinaire-silver.png" style="width: 180px;"> | ?
-Pair Extraordinaire x4 | Gold 🥇 | <img alt="Pair Extraordinaire Gold Badge" src="/images/tiers/pair-extraordinaire-gold.png" style="width: 180px;"> | ?
+Pair Extraordinaire x2 | Bronze 🥉 | <img alt="Pair Extraordinaire Bronze Badge" src="/images/tiers/pair-extraordinaire-bronze.png" style="width: 180px;"> | Coauthored commits on 2 merged pull requests
+Pair Extraordinaire x3 | Silver 🥈 | <img alt="Pair Extraordinaire Silver Badge" src="/images/tiers/pair-extraordinaire-silver.png" style="width: 180px;"> | Coauthored commits on 3 merged pull requests
+Pair Extraordinaire x4 | Gold 🥇 | <img alt="Pair Extraordinaire Gold Badge" src="/images/tiers/pair-extraordinaire-gold.png" style="width: 180px;"> | Coauthored commits on 4 merged pull requests
 Starstruck x2 | Bronze 🥉 | <img alt="Starstruck Bronze Badge" src="/images/tiers/starstruck-bronze.png" style="width: 180px;"> | 128 stars
 Starstruck x3 | Silver 🥈 | <img alt="Starstruck Silver Badge" src="/images/tiers/starstruck-silver.png" style="width: 180px;"> | 512 stars
 Starstruck x4 | Gold 🥇 | <img alt="Starstruck Gold Badge" src="/images/tiers/starstruck-gold.png" style="width: 180px;"> | 4096 stars
