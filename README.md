@@ -96,6 +96,10 @@ Mars 2020 Contributor | [Live 100 % unlocked sample by @torvalds](https://github
 
 Do you know a user with all Achievements at the same time? Let me know!
 
+### Variants
+
+[Here](/images/variants) are the variants of Badges including the [Octocat](https://github.com/logos) based on [the setting](https://github.com/settings/appearance#emoji-heading) for the [Emoji skin tone](https://en.wikipedia.org/wiki/Emoji#Skin_color).
+
 ## Highlights
 
 The Highlights section below the Achievements including the corresponding badges is currently [best documented in the official GitHub docs](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
