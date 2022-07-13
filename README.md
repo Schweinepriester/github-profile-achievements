@@ -21,7 +21,7 @@ Quickdraw | ![Quickdraw Badge](/images/quickdraw-default.png) | ✔️ | Closed 
 Starstruck | ![Starstruck Badge](/images/starstruck-default.png) | ✔️ | 16 stars
 Galaxy Brain | ![Galaxy Brain Badge](/images/galaxy-brain-default.png) | ✔️ | 2 accepted answers
 Pull Shark | ![Pull Shark Badge](/images/pull-shark-default.png) | ✔️ | 2 pull requests merged
-YOLO | ![YOLO Badge](/images/yolo-default.png) | ✔️ | Merged pull request without code review
+YOLO | ![YOLO Badge](/images/yolo-default.png) | ✔️ | Merged a pull request without code review
 ||| <!-- this empty row is intentional to separate the original achievements from the new ones -->
 Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](/images/arctic-code-vault-contributor-default.png) | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
 Public Sponsor | ![GitHub Sponsor Achievement Badge](/images/public-sponsor-default.png) | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
