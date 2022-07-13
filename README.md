@@ -23,7 +23,7 @@ YOLO | ![YOLO Badge](/images/yolo-default.png) | ✔️ | Merged pull request wi
 Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](/images/arctic-code-vault-contributor-default.png) | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
 Public Sponsor | ![GitHub Sponsor Achievement Badge](/images/public-sponsor-default.png) | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
 Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](/images/mars-2020-contributor-default.png) | ❌ | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter)
-Starstruck | ![Starstruck Badge](/images/starstruck-default.png.png) | ✔️ | created a repository that has many stars.
+Starstruck | ![Starstruck Badge](/images/starstruck-default.png) | ✔️ | created a repository that has many stars.
 
 ## Tiers
 
