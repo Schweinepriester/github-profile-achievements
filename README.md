@@ -98,7 +98,7 @@ Do you know a user with all Achievements at the same time? Let me know!
 
 ### Variants
 
-[Here](/images/variants) are the variants of Badges including the [Octocat](https://github.com/logos) based on [the setting](https://github.com/settings/appearance#emoji-heading) for the [Emoji skin tone](https://en.wikipedia.org/wiki/Emoji#Skin_color).
+[Here](/images/variants) are the variants of Badges including the [Octocat :octocat:](https://github.com/logos) based on [the setting](https://github.com/settings/appearance#emoji-heading) for the [Emoji skin tone](https://en.wikipedia.org/wiki/Emoji#Skin_color) ✌️✌🏻✌🏼✌🏽✌🏾✌🏿.
 
 ## Highlights
 
