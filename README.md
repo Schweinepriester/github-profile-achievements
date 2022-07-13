@@ -62,6 +62,7 @@ There is still a section which includes specifics on how badges were/are awarded
 
 For now, please refer to the [discussions](https://github.com/Schweinepriester/github-profile-achievements/discussions).  
 To the best of our knowledge:
+
 - [Galaxy Brain](https://github.com/Schweinepriester/github-profile-achievements/discussions/9#discussioncomment-2927413)
 - [YOLO](https://github.com/Schweinepriester/github-profile-achievements/discussions/6#discussioncomment-2934257)
 
@@ -98,7 +99,7 @@ Do you know a user with all Achievements at the same time? Let me know!
 
 ### Variants
 
-[Here](/images/variants) are the variants of Badges including the [Octocat :octocat:](https://github.com/logos) based on [the setting](https://github.com/settings/appearance#emoji-heading) for the [Emoji skin tone](https://en.wikipedia.org/wiki/Emoji#Skin_color) ✌️✌🏻✌🏼✌🏽✌🏾✌🏿.
+[Here](/images/variants) are the variants of Badges including the [Octocat :octocat:](https://github.com/logos) based on [the setting](https://github.com/settings/appearance#emoji-heading) for the [Emoji skin tone](https://en.wikipedia.org/wiki/Emoji#Skin_color) [✌️](https://emojipedia.org/victory-hand/)[✌🏻✌🏼✌🏽✌🏾✌🏿](https://emojipedia.org/emoji-modifier-sequence/).
 
 ## Highlights
 
