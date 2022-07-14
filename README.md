@@ -8,7 +8,7 @@ Following the launch of the first Mars Helicopter, [Ingenuity](https://en.wikip
 
 This repository attempts to list them all.
 
-**2022-06-09:** GitHub [announced more Achievements](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/), but without specific criteria. If you see something not listed here, please open an issue :)
+**2022-06-09:** GitHub [announced more Achievements](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/), but without specific criteria. If you see something not listed here or the given information is incorrect, please open an issue :)
 
 Don't like the Achievements? [Here](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile#changing-the-visibility-of-achievements) is how to disable them. [Direct link to the setting for your convenience](https://github.com/settings/profile#profile-settings-heading).
 
