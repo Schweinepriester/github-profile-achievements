@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 20">
+    <style>
+      tspan {
+        fill: #24292F;
+      }
+      @media (prefers-color-scheme: dark) {
+        tspan {
+          fill: #0D1117;
+        }
+      }
+    </style>
+    <rect width="30" height="20" fill="#E1E4E4" rx="10" ry="10"/>
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central" fill="#24292F" font-family="system-ui" font-size="12" font-weight="600" text-decoration="none solid rgb(36, 41, 47)" word-spacing="0" writing-mode="horizontal-tb">
+        <tspan>x3</tspan>
+    </text>
+</svg>
