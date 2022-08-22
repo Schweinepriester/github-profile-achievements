@@ -20,7 +20,7 @@ Pair Extraordinaire | ![Pair Extraordinaire Badge](/images/pair-extraordinaire-d
 Quickdraw | ![Quickdraw Badge](/images/quickdraw-default.png) | ✔️ | Closed an issue or a pull request within 5 min of opening
 Starstruck | ![Starstruck Badge](/images/starstruck-default.png) | ✔️ | Created a repository that has 16 stars
 ||| <!-- this empty row is intentional to separate -->
-Galaxy Brain | ![Galaxy Brain Badge](/images/galaxy-brain-default.png) | ✔️ | 2 accepted answers
+Galaxy Brain | ![Galaxy Brain Badge](/images/galaxy-brain-default.png) | ✔️ | 2 accepted answers in Discussions
 Pull Shark | ![Pull Shark Badge](/images/pull-shark-default.png) | ✔️ | 2 pull requests merged
 YOLO | ![YOLO Badge](/images/yolo-default.png) | ✔️ | Merged a pull request without code review
 ||| <!-- this empty row is intentional to separate -->
