@@ -17,7 +17,7 @@ Don't like the Achievements? [Here](https://docs.github.com/account-and-profile/
 | Title | Badge | Earnable? | Earned by |
 | --- | --- | --- | --- |
 Heart On Your Sleeve | ![Heart On Your Sleeve Badge](/images/heart-on-your-sleeve-default.png) | ? | ?
-Open Sourcerer | ![Open Sourcerer Badge](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | ? | ?
+Open Sourcerer | ![Open Sourcerer Badge](/images/open-sourcerer-default.png) | ? | ?
 ||| <!-- this empty row is intentional to separate -->
 Pair Extraordinaire | ![Pair Extraordinaire Badge](/images/pair-extraordinaire-default.png) | ✔️ | [Coauthored](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) in a merged pull request
 Quickdraw | ![Quickdraw Badge](/images/quickdraw-default.png) | ✔️ | Closed an issue or a pull request within 5 min of opening
