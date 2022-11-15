@@ -121,7 +121,7 @@ From the [start with Ingenuity on 2021-04-19](https://github.blog/2021-04-19-ope
 + Mars 2020 Contributor
 ```
 
-Here are the old designs and names:
+Here are the old designs and names: 
 
 | Title | Badge |
 | --- | --- |
