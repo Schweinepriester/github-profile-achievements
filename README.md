@@ -98,7 +98,7 @@ Arctic Code Vault Contributor | [Live 100 % unlocked sample by @Schweinepriester
 Public Sponsor | [Live 100 % unlocked sample by @ljharb](https://github.com/ljharb?tab=achievements&achievement=public-sponsor)
 Mars 2020 Contributor | [Live 100 % unlocked sample by @torvalds](https://github.com/torvalds?achievement=mars-2020-contributor&tab=achievements)
 
-Do you know a user with all Achievements at the same time? Let me know!
+Do you know a user with all Achievements with highest tier at the same time? Let me know!
 
 ### Variants
 
