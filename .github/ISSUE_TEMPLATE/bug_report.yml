@@ -25,7 +25,7 @@ body:
     label: Details
     description: To understand the issue, we need some details of your setup & system
     placeholder: |
-     
+      Version: xy / zg ...]
    validations:
      required: true
  - type: textarea
