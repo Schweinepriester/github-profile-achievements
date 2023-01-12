@@ -1,6 +1,6 @@
 name: Feature Request
 description: Create a report to help us improve (search for duplicates first)
-labels: feature request
+labels: enhancement
 body:
  - type: textarea
    attributes:
