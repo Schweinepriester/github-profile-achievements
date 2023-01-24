@@ -22,7 +22,7 @@ body:
    attributes:
     label: Issue tracker rule checks (please read carefully)
     options:
-     - label: "I have checked that this feature <a href='https://github.com/Schweinepriester/github-profile-achievements/issues' target='_blank'>is not already asked.</a>"
+     - label: "I have checked that this feature <a href='https://github.com/Schweinepriester/github-profile-achievements/issues' target='_blank'>is not already requested.</a>"
        required: true
      - label: "I have checked that this feature is not already implemented"
        required: true
