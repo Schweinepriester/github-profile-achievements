@@ -1,11 +1,17 @@
 {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "folders": [
         {
             "path": "../tiers"
         }
     ]
 =======
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 	"folders": [
 		{
 			"path": "../.."
@@ -23,5 +29,11 @@
 			"path": "../.."
 		}
 	]
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 }
