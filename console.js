@@ -2,3 +2,7 @@
 
 console.log("Hello Yolo")
 console.log("Hello Yolo") // 2nd time!
+
+function.main(){
+  retutn.null;
+}
