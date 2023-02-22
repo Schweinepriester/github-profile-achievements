@@ -25,20 +25,20 @@ them. [Direct link to the setting for your convenience](https://github.com/setti
 
 | Title                                              | Badge                                                                                                 | Earnable? | Earned by                                                                                                                                                                            |
 |----------------------------------------------------|-------------------------------------------------------------------------------------------------------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
- Heart On Your Sleeve                               | ![Heart On Your Sleeve Badge](/images/heart-on-your-sleeve-default.png)                               | ?         | ?                                                                                                                                                                                    
- Open Sourcerer                                     | ![Open Sourcerer Badge](/images/open-sourcerer-default.png)                                           | ?         | ?                                                                                                                                                                                    
-||| <!-- this empty row is intentional to separate --> 
- Pair Extraordinaire                                | ![Pair Extraordinaire Badge](/images/pair-extraordinaire-default.png)                                 | ✔️        | [Coauthored](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) in a merged pull request 
- Quickdraw                                          | ![Quickdraw Badge](/images/quickdraw-default.png)                                                     | ✔️        | Closed an issue or a pull request within 5 min of opening                                                                                                                            
- Starstruck                                         | ![Starstruck Badge](/images/starstruck-default.png)                                                   | ✔️        | Created a repository that has 16 stars                                                                                                                                               
-||| <!-- this empty row is intentional to separate --> 
- Galaxy Brain                                       | ![Galaxy Brain Badge](/images/galaxy-brain-default.png)                                               | ✔️        | 2 accepted answers                                                                                                                                                                   
- Pull Shark                                         | ![Pull Shark Badge](/images/pull-shark-default.png)                                                   | ✔️        | 2 pull requests merged                                                                                                                                                               
- YOLO                                               | ![YOLO Badge](/images/yolo-default.png)                                                               | ✔️        | Merged a pull request without code review                                                                                                                                            
-||| <!-- this empty row is intentional to separate --> 
- Arctic Code Vault Contributor                      | ![Arctic Code Vault Contributor Achievement Badge](/images/arctic-code-vault-contributor-default.png) | ❌         | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)                                                                            
- Public Sponsor                                     | ![GitHub Sponsor Achievement Badge](/images/public-sponsor-default.png)                               | ✔️        | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)                                                                                                       
- Mars 2020 Contributor                              | ![Mars 2020 Helicopter Contributor Achievement Badge](/images/mars-2020-contributor-default.png)      | ❌         | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter)                                                     
+| Heart On Your Sleeve                               | ![Heart On Your Sleeve Badge](/images/heart-on-your-sleeve-default.png)                               | ?         | ?                                                                                                                                                                                    |
+| Open Sourcerer                                     | ![Open Sourcerer Badge](/images/open-sourcerer-default.png)                                           | ?         | ?                                                                                                                                                                                    |
+||| <!-- this empty row is intentional to separate --> |                                                                                                       |     |     |
+| Pair Extraordinaire                                | ![Pair Extraordinaire Badge](/images/pair-extraordinaire-default.png)                                 | ✔️        | [Coauthored](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) in a merged pull request |
+| Quickdraw                                          | ![Quickdraw Badge](/images/quickdraw-default.png)                                                     | ✔️        | Closed an issue or a pull request within 5 min of opening                                                                                                                            |
+| Starstruck                                         | ![Starstruck Badge](/images/starstruck-default.png)                                                   | ✔️        | Created a repository that has 16 stars                                                                                                                                               |
+||| <!-- this empty row is intentional to separate --> |                                                                                                       |     |     |
+| Galaxy Brain                                       | ![Galaxy Brain Badge](/images/galaxy-brain-default.png)                                               | ✔️        | 2 accepted answers                                                                                                                                                                   |
+| Pull Shark                                         | ![Pull Shark Badge](/images/pull-shark-default.png)                                                   | ✔️        | 2 pull requests merged                                                                                                                                                               |
+| YOLO                                               | ![YOLO Badge](/images/yolo-default.png)                                                               | ✔️        | Merged a pull request without code review                                                                                                                                            |
+||| <!-- this empty row is intentional to separate --> |                                                                                                       |     |     |
+| Arctic Code Vault Contributor                      | ![Arctic Code Vault Contributor Achievement Badge](/images/arctic-code-vault-contributor-default.png) | ❌         | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)                                                                            |
+| Public Sponsor                                     | ![GitHub Sponsor Achievement Badge](/images/public-sponsor-default.png)                               | ✔️        | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)                                                                                                       |
+| Mars 2020 Contributor                              | ![Mars 2020 Helicopter Contributor Achievement Badge](/images/mars-2020-contributor-default.png)      | ❌         | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter)                                                     |
 
 ## Tiers
 
@@ -46,26 +46,26 @@ Some Achievements not only have the base version, but also tiers.
 
 | Title                                              | Tier      | Badge                                                                                                                   | Earned by                                |
 |----------------------------------------------------|-----------|-------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
- Heart On Your Sleeve x2                            | Bronze 🥉 | <img alt="Heart On Your Sleeve Bronze Badge" src="/images/tiers/heart-on-your-sleeve-bronze.png" style="width: 180px;"> | ?                                        
- Heart On Your Sleeve x3                            | Silver 🥈 | <img alt="Heart On Your Sleeve Silver Badge" src="/images/tiers/heart-on-your-sleeve-silver.png" style="width: 180px;"> | ?                                        
- Heart On Your Sleeve x4                            | Gold 🥇   | <img alt="Heart On Your Sleeve Gold Badge" src="/images/tiers/heart-on-your-sleeve-gold.png" style="width: 180px;">     | ?                                        
- Open Sourcerer x2                                  | Bronze 🥉 | <img alt="Open Sourcerer Bronze Badge" src="/images/tiers/open-sourcerer-bronze.png" style="width: 180px;">             | ?                                        
- Open Sourcerer x3                                  | Silver 🥈 | <img alt="Open Sourcerer Silver Badge" src="/images/tiers/open-sourcerer-silver.png" style="width: 180px;">             | ?                                        
- Open Sourcerer x4                                  | Gold 🥇   | <img alt="Open Sourcerer Gold Badge" src="/images/tiers/open-sourcerer-gold.png" style="width: 180px;">                 | ?                                        
-||| <!-- this empty row is intentional to separate --> 
- Pair Extraordinaire x2                             | Bronze 🥉 | <img alt="Pair Extraordinaire Bronze Badge" src="/images/tiers/pair-extraordinaire-bronze.png" style="width: 180px;">   | Coauthored in 10 merged pull requests    
- Pair Extraordinaire x3                             | Silver 🥈 | <img alt="Pair Extraordinaire Silver Badge" src="/images/tiers/pair-extraordinaire-silver.png" style="width: 180px;">   | Coauthored in 24 merged pull requests    
- Pair Extraordinaire x4                             | Gold 🥇   | <img alt="Pair Extraordinaire Gold Badge" src="/images/tiers/pair-extraordinaire-gold.png" style="width: 180px;">       | Coauthored in 48 merged pull requests    
- Starstruck x2                                      | Bronze 🥉 | <img alt="Starstruck Bronze Badge" src="/images/tiers/starstruck-bronze.png" style="width: 180px;">                     | Created a repository that has 128 stars  
- Starstruck x3                                      | Silver 🥈 | <img alt="Starstruck Silver Badge" src="/images/tiers/starstruck-silver.png" style="width: 180px;">                     | Created a repository that has 512 stars  
- Starstruck x4                                      | Gold 🥇   | <img alt="Starstruck Gold Badge" src="/images/tiers/starstruck-gold.png" style="width: 180px;">                         | Created a repository that has 4096 stars 
-||| <!-- this empty row is intentional to separate --> 
- Galaxy Brain x2                                    | Bronze 🥉 | <img alt="Galaxy Brain Bronze Badge" src="/images/tiers/galaxy-brain-bronze.png" style="width: 180px;">                 | 8 accepted answers                       
- Galaxy Brain x3                                    | Silver 🥈 | <img alt="Galaxy Brain Silver Badge" src="/images/tiers/galaxy-brain-silver.png" style="width: 180px;">                 | 16 accepted answers                      
- Galaxy Brain x4                                    | Gold 🥇   | <img alt="Galaxy Brain Gold Badge" src="/images/tiers/galaxy-brain-gold.png" style="width: 180px;">                     | 32 accepted answers                      
- Pull Shark x2                                      | Bronze 🥉 | <img alt="Pull Shark Bronze Badge" src="/images/tiers/pull-shark-bronze.png" style="width: 180px;">                     | 16 pull requests merged                  
- Pull Shark x3                                      | Silver 🥈 | <img alt="Pull Shark Silver Badge" src="/images/tiers/pull-shark-silver.png" style="width: 180px;">                     | 128 pull requests merged                 
- Pull Shark x4                                      | Gold 🥇   | <img alt="Pull Shark Gold Badge" src="/images/tiers/pull-shark-gold.png" style="width: 180px;">                         | 1024 pull requests merged                
+| Heart On Your Sleeve x2                            | Bronze 🥉 | <img alt="Heart On Your Sleeve Bronze Badge" src="/images/tiers/heart-on-your-sleeve-bronze.png" style="width: 180px;"> | ?                                        |
+| Heart On Your Sleeve x3                            | Silver 🥈 | <img alt="Heart On Your Sleeve Silver Badge" src="/images/tiers/heart-on-your-sleeve-silver.png" style="width: 180px;"> | ?                                        |
+| Heart On Your Sleeve x4                            | Gold 🥇   | <img alt="Heart On Your Sleeve Gold Badge" src="/images/tiers/heart-on-your-sleeve-gold.png" style="width: 180px;">     | ?                                        |
+| Open Sourcerer x2                                  | Bronze 🥉 | <img alt="Open Sourcerer Bronze Badge" src="/images/tiers/open-sourcerer-bronze.png" style="width: 180px;">             | ?                                        |
+| Open Sourcerer x3                                  | Silver 🥈 | <img alt="Open Sourcerer Silver Badge" src="/images/tiers/open-sourcerer-silver.png" style="width: 180px;">             | ?                                        |
+| Open Sourcerer x4                                  | Gold 🥇   | <img alt="Open Sourcerer Gold Badge" src="/images/tiers/open-sourcerer-gold.png" style="width: 180px;">                 | ?                                        |
+||| <!-- this empty row is intentional to separate --> |           |     |     |
+| Pair Extraordinaire x2                             | Bronze 🥉 | <img alt="Pair Extraordinaire Bronze Badge" src="/images/tiers/pair-extraordinaire-bronze.png" style="width: 180px;">   | Coauthored in 10 merged pull requests    |
+| Pair Extraordinaire x3                             | Silver 🥈 | <img alt="Pair Extraordinaire Silver Badge" src="/images/tiers/pair-extraordinaire-silver.png" style="width: 180px;">   | Coauthored in 24 merged pull requests    |
+| Pair Extraordinaire x4                             | Gold 🥇   | <img alt="Pair Extraordinaire Gold Badge" src="/images/tiers/pair-extraordinaire-gold.png" style="width: 180px;">       | Coauthored in 48 merged pull requests    |
+| Starstruck x2                                      | Bronze 🥉 | <img alt="Starstruck Bronze Badge" src="/images/tiers/starstruck-bronze.png" style="width: 180px;">                     | Created a repository that has 128 stars  |
+| Starstruck x3                                      | Silver 🥈 | <img alt="Starstruck Silver Badge" src="/images/tiers/starstruck-silver.png" style="width: 180px;">                     | Created a repository that has 512 stars  |
+| Starstruck x4                                      | Gold 🥇   | <img alt="Starstruck Gold Badge" src="/images/tiers/starstruck-gold.png" style="width: 180px;">                         | Created a repository that has 4096 stars |
+||| <!-- this empty row is intentional to separate --> |           |     |     |
+| Galaxy Brain x2                                    | Bronze 🥉 | <img alt="Galaxy Brain Bronze Badge" src="/images/tiers/galaxy-brain-bronze.png" style="width: 180px;">                 | 8 accepted answers                       |
+| Galaxy Brain x3                                    | Silver 🥈 | <img alt="Galaxy Brain Silver Badge" src="/images/tiers/galaxy-brain-silver.png" style="width: 180px;">                 | 16 accepted answers                      |
+| Galaxy Brain x4                                    | Gold 🥇   | <img alt="Galaxy Brain Gold Badge" src="/images/tiers/galaxy-brain-gold.png" style="width: 180px;">                     | 32 accepted answers                      |
+| Pull Shark x2                                      | Bronze 🥉 | <img alt="Pull Shark Bronze Badge" src="/images/tiers/pull-shark-bronze.png" style="width: 180px;">                     | 16 pull requests merged                  |
+| Pull Shark x3                                      | Silver 🥈 | <img alt="Pull Shark Silver Badge" src="/images/tiers/pull-shark-silver.png" style="width: 180px;">                     | 128 pull requests merged                 |
+| Pull Shark x4                                      | Gold 🥇   | <img alt="Pull Shark Gold Badge" src="/images/tiers/pull-shark-gold.png" style="width: 180px;">                         | 1024 pull requests merged                |
 
 ## Official list
 
@@ -94,9 +94,9 @@ Each tier has a label associated which includes a color.
 
 | Tier      | Label | Sample                                                 | Hex     | Visual                                                                                                            |
 |-----------|-------|--------------------------------------------------------|---------|-------------------------------------------------------------------------------------------------------------------|
- Bronze 🥉 | x2    | ![x2](/images/custom/tier-label/tier-label-bronze.svg) | #F9BFA7 | ![#F9BFA7](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23F9BFA7-yellow?style=flat-square&color=F9BFA7) 
- Silver 🥈 | x3    | ![x3](/images/custom/tier-label/tier-label-silver.svg) | #E1E4E4 | ![#E1E4E4](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23E1E4E4-yellow?style=flat-square&color=E1E4E4) 
- Gold 🥇   | x4    | ![x4](/images/custom/tier-label/tier-label-gold.svg)   | #FAE57E | ![#FAE57E](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23FAE57E-yellow?style=flat-square&color=FAE57E) 
+| Bronze 🥉 | x2    | ![x2](/images/custom/tier-label/tier-label-bronze.svg) | #F9BFA7 | ![#F9BFA7](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23F9BFA7-yellow?style=flat-square&color=F9BFA7) |
+| Silver 🥈 | x3    | ![x3](/images/custom/tier-label/tier-label-silver.svg) | #E1E4E4 | ![#E1E4E4](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23E1E4E4-yellow?style=flat-square&color=E1E4E4) |
+| Gold 🥇   | x4    | ![x4](/images/custom/tier-label/tier-label-gold.svg)   | #FAE57E | ![#FAE57E](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23FAE57E-yellow?style=flat-square&color=FAE57E) |
 
 ### 100 % samples
 
@@ -106,17 +106,17 @@ See them live, including the animation some have, for example here:
 
 | Title                         | Sample                                                                                                                                            |
 |-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
- Pair Extraordinaire           | [Live 100 % unlocked sample by @Rongronggg9](https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements)                     
- Quickdraw                     | [Live 100 % unlocked sample by @Schweinepriester](https://github.com/Schweinepriester?achievement=quickdraw&tab=achievements)                     
- Starstruck                    | [Live 100 % unlocked sample by @torvalds](https://github.com/torvalds?achievement=starstruck&tab=achievements)                                    
-||| <!-- this empty row is intentional to separate -->
- Galaxy Brain                  | [Live 100 % unlocked sample by @ljharb](https://github.com/ljharb?achievement=galaxy-brain&tab=achievements)                                      
- Pull Shark                    | [Live 100 % unlocked sample by @ljharb](https://github.com/ljharb?achievement=pull-shark&tab=achievements)                                        
- YOLO                          | [Live 100 % unlocked sample by @Schweinepriester](https://github.com/Schweinepriester?achievement=yolo&tab=achievements)                          
-||| <!-- this empty row is intentional to separate -->
- Arctic Code Vault Contributor | [Live 100 % unlocked sample by @Schweinepriester](https://github.com/Schweinepriester?tab=achievements&achievement=arctic-code-vault-contributor) 
- Public Sponsor                | [Live 100 % unlocked sample by @ljharb](https://github.com/ljharb?tab=achievements&achievement=public-sponsor)                                    
- Mars 2020 Contributor         | [Live 100 % unlocked sample by @torvalds](https://github.com/torvalds?achievement=mars-2020-contributor&tab=achievements)                         
+| Pair Extraordinaire           | [Live 100 % unlocked sample by @Rongronggg9](https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements)                     |
+| Quickdraw                     | [Live 100 % unlocked sample by @Schweinepriester](https://github.com/Schweinepriester?achievement=quickdraw&tab=achievements)                     |
+| Starstruck                    | [Live 100 % unlocked sample by @torvalds](https://github.com/torvalds?achievement=starstruck&tab=achievements)                                    |
+||| <!-- this empty row is intentional to separate -->                               |     |
+| Galaxy Brain                  | [Live 100 % unlocked sample by @ljharb](https://github.com/ljharb?achievement=galaxy-brain&tab=achievements)                                      |
+| Pull Shark                    | [Live 100 % unlocked sample by @ljharb](https://github.com/ljharb?achievement=pull-shark&tab=achievements)                                        |
+| YOLO                          | [Live 100 % unlocked sample by @Schweinepriester](https://github.com/Schweinepriester?achievement=yolo&tab=achievements)                          |
+||| <!-- this empty row is intentional to separate -->                               |     |
+| Arctic Code Vault Contributor | [Live 100 % unlocked sample by @Schweinepriester](https://github.com/Schweinepriester?tab=achievements&achievement=arctic-code-vault-contributor) |
+| Public Sponsor                | [Live 100 % unlocked sample by @ljharb](https://github.com/ljharb?tab=achievements&achievement=public-sponsor)                                    |
+| Mars 2020 Contributor         | [Live 100 % unlocked sample by @torvalds](https://github.com/torvalds?achievement=mars-2020-contributor&tab=achievements)                         |
 
 Do you know a user with all Achievements with highest tier at the same time? Let me know!
 
@@ -151,6 +151,6 @@ Here are the old designs and names:
 
 | Title                            | Badge                                                                                                               |
 |----------------------------------|---------------------------------------------------------------------------------------------------------------------|
- Arctic Code Vault Contributor    | ![Arctic Code Vault Contributor Achievement Badge](/images/2021-04-19-2022-06-09/badge-arctic-code-vault-small.png) 
- GitHub Sponsor                   | ![GitHub Sponsor Achievement Badge](/images/2021-04-19-2022-06-09/badge-sponsors-small.png)                         
- Mars 2020 Helicopter Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](images/2021-04-19-2022-06-09/badge-mars-2020-small.png)       
+| Arctic Code Vault Contributor    | ![Arctic Code Vault Contributor Achievement Badge](/images/2021-04-19-2022-06-09/badge-arctic-code-vault-small.png) |
+| GitHub Sponsor                   | ![GitHub Sponsor Achievement Badge](/images/2021-04-19-2022-06-09/badge-sponsors-small.png)                         |
+| Mars 2020 Helicopter Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](images/2021-04-19-2022-06-09/badge-mars-2020-small.png)       |
