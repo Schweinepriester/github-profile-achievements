@@ -25,3 +25,6 @@ function generarColorAleatorio() {
   }
   return color;
 }
+
+
+document.body.style.backgroundColor = generarColorAleatorio();
