@@ -1,0 +1,9 @@
+with open('asignaciones.txt', 'r') as f:
+    for line in f:
+        cluster, valor = line.strip().split('=')
+        if valor == 'ALTO':
+            cluster_0 = cluster
+        elif valor == 'MEDIO':
+            cluster_1 = cluster
+        elif valor == 'BAJO':
+            cluster_2 = cluster

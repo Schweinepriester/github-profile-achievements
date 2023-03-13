@@ -1,0 +1,1 @@
+ALTO=cluster_0 , MEDIO=cluster_1, BAJO=cluster_2
