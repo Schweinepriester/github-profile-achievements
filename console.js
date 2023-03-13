@@ -33,3 +33,10 @@ let horaActual = fechaActual.getHours();
 let minutosActuales = fechaActual.getMinutes();
 
 console.log("La hora actual es " + horaActual + ":" + minutosActuales);
+bad date
+let fechaActual = new dite();
+let horaActual = fechaActual.getHours();
+let minutosActuales = fechaActual.getMinutes();
+
+console.log("La hora actual es " + horaActual + ":" + minutosActuales);
+
