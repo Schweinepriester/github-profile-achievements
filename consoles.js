@@ -15,3 +15,13 @@ let mesesAnio = ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio",
 for (let i = 0; i < mesesAnio.length; i++) {
   console.log(mesesAnio[i]);
 }
+
+COLORS
+function generarColorAleatorio() {
+  let letras = "0123456789ABCDEF";
+  let color = "#";
+  for (let i = 0; i < 6; i++) {
+    color += letras[Math.floor(Math.random() * 16)];
+  }
+  return color;
+}
