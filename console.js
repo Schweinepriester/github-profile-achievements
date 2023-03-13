@@ -26,5 +26,10 @@ function generarColorAleatorio() {
   return color;
 }
 
+HORA ACTUAL
 
-document.body.style.backgroundColor = generarColorAleatorio();
+let fechaActual = new Date();
+let horaActual = fechaActual.getHours();
+let minutosActuales = fechaActual.getMinutes();
+
+console.log("La hora actual es " + horaActual + ":" + minutosActuales);
