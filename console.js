@@ -2,7 +2,7 @@ console.log("gg")
 console.log("gg")
 console.log("gg world")
 
-function ahmad()
 
-
-main()
+//
+var x=2
+var z=4 
