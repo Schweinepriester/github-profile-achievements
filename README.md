@@ -129,7 +129,7 @@ Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badg
 GitHub Sponsor | ![GitHub Sponsor Achievement Badge](/images/2021-04-19-2022-06-09/badge-sponsors-small.png)
 Mars 2020 Helicopter Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](images/2021-04-19-2022-06-09/badge-mars-2020-small.png)
 
-## See also
-
+**## See also
+**
 * [Flet/rejected-github-profile-achievements](https://github.com/Flet/rejected-github-profile-achievements) for a laugh about the Achievements
 * [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) same as this collection, but different ;)
