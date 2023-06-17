@@ -3,3 +3,4 @@ console.log("din mor");
 console.log("din familie");
 // hæng dig selv
 // hæng dig selv
+// hæng dig selv
