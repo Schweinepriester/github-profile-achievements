@@ -25,7 +25,7 @@ Starstruck | ![Starstruck Badge](/images/starstruck-default.png) | ✔️ | Crea
 ||| <!-- this empty row is intentional to separate -->
 Galaxy Brain | ![Galaxy Brain Badge](/images/galaxy-brain-default.png) | ✔️ | 2 accepted answers
 Pull Shark | ![Pull Shark Badge](/images/pull-shark-default.png) | ✔️ | 2 pull requests merged
-YOLO | ![YOLO Badge](/images/yolo-default.png) | ✔️ | Merged your own pull request without code review on your own repository or any repository where you are a collaborator
+YOLO | ![YOLO Badge](/images/yolo-default.png) | ✔️ | Merged own pull request without code review
 ||| <!-- this empty row is intentional to separate -->
 Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](/images/arctic-code-vault-contributor-default.png) | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
 Public Sponsor | ![GitHub Sponsor Achievement Badge](/images/public-sponsor-default.png) | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
