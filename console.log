@@ -1,0 +1,8 @@
+console.log("hello world")
+console.log("what's up")
+
+function main() {
+return null();
+}
+main()
+//edited for the video
