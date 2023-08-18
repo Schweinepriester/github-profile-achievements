@@ -51,6 +51,7 @@ Pull Shark x2 | Bronze 🥉 | <img alt="Pull Shark Bronze Badge" src="/images/ti
 Pull Shark x3 | Silver 🥈 | <img alt="Pull Shark Silver Badge" src="/images/tiers/pull-shark-silver.png" style="width: 180px;"> | 128 pull requests merged
 Pull Shark x4 | Gold 🥇 | <img alt="Pull Shark Gold Badge" src="/images/tiers/pull-shark-gold.png" style="width: 180px;"> | 1024 pull requests merged
 
+
 ## Official list
 
 There ~~is~~ was an official list available in the GitHub Docs at  
