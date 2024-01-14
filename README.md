@@ -33,7 +33,7 @@ Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](/i
 
 ## Tiers
 
-Some Achievements not only have the base version, but also tiers.
+Some Achievements not only have the base version, but also tiers. Tiers typically range from bronze to gold.
 
 | Title | Tier | Badge | Earned by |
 | --- | --- | --- | --- |
