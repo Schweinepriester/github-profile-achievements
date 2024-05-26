@@ -16,7 +16,9 @@ This repository attempts to list them all.
 GitHub [announced more Achievements](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/),
 but without specific criteria. If you see something not listed here or is incorrect, please open an issue :)
 
-**2024-02-06:** Achievements will no longer be available in [GitHub's Community Discussions](https://github.com/orgs/community/discussions/) to counter spam, see [the announcement](https://github.com/orgs/community/discussions/106536).
+**2024-02-06:** Achievements will no longer be available
+in [GitHub's Community Discussions](https://github.com/orgs/community/discussions/) to counter spam,
+see [the announcement](https://github.com/orgs/community/discussions/106536).
 
 Don't like the
 Achievements? [Here](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile#changing-the-visibility-of-achievements)
@@ -77,8 +79,7 @@ available in the GitHub Docs. There is still a section that includes specifics o
 which [repositories and versions qualified for the Mars 2020 Helicopter Contributor](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#list-of-qualifying-repositories-for-mars-2020-helicopter-contributor-achievement).
 
 ~~Consider this repository a mirror, maybe in the future with a historic purpose.~~ Unless there will be an official
-list
-again, this is it.
+list again, this is it.
 
 ## Details
 
