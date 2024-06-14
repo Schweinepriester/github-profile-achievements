@@ -6,4 +6,7 @@ console.log("Hello World")// 2nd Time !
 function () {
   return null ;
 }
-  
+
+main();
+
+// console.log(main)//
