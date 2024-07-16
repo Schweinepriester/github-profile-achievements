@@ -73,7 +73,7 @@ To the best of our knowledge:
 
 ### Tier labels
 
-Each tier has a label associated which includes a color.
+Each tier has a label associated, which includes a color.
 
 | Tier | Label | Sample | Hex | Visual |
 | --- | --- | --- | --- | --- |
@@ -123,7 +123,7 @@ From the [start with Ingenuity on 2021-04-19](https://github.blog/2021-04-19-ope
 + Mars 2020 Contributor
 ```
 
-Here are the old designs and names:
+Here are the names and old designs:
 
 | Title | Badge |
 | --- | --- |
