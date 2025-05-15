@@ -29,3 +29,7 @@ const user = {
   email: "alice@example.com"
 };
 console.table(user);
+
+function first() {
+  second();
+}
