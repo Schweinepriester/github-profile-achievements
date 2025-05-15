@@ -22,3 +22,10 @@ console.count("Button Clicked");
 // Assertions
 let shouldBeTrue = false;
 console.assert(shouldBeTrue, "Assertion failed: shouldBeTrue is false");
+
+const user = {
+  id: 1,
+  name: "Alice",
+  email: "alice@example.com"
+};
+console.table(user);
