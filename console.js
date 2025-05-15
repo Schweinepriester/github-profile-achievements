@@ -14,3 +14,11 @@ for (let i = 0; i < 1000000; i++) {
   // Simulate work
 }
 console.timeEnd("Loop Timer");
+
+console.count("Button Clicked");
+console.count("Button Clicked");
+console.count("Button Clicked");
+
+// Assertions
+let shouldBeTrue = false;
+console.assert(shouldBeTrue, "Assertion failed: shouldBeTrue is false");
