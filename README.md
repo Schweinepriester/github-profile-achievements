@@ -1,5 +1,11 @@
 # GitHub Profile Achievements 🏆
 
+<div align="center">
+
+English | [中文](./README_zh.md)
+
+</div>
+
 A collection listing all Achievements available on the GitHub profile.
 
 Following the launch of the first Mars Helicopter, [Ingenuity](https://en.wikipedia.org/wiki/Ingenuity_(helicopter)), GitHub [announced](https://github.blog/2021-04-19-open-source-goes-to-mars/) the new Achievements section:
