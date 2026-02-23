@@ -135,3 +135,10 @@ Mars 2020 Helicopter Contributor | ![Mars 2020 Helicopter Contributor Achievemen
 
 * [Flet/rejected-github-profile-achievements](https://github.com/Flet/rejected-github-profile-achievements) for a laugh about the Achievements
 * [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) same as this collection, but different ;)
+
+## Tips for Earning Achievements
+
+- Achievements may take **several hours** to appear on your profile after meeting the criteria
+- Some achievements like **Heart On Your Sleeve** and **Open Sourcerer** are still in beta and may not be visible
+- You can control achievement visibility in [Profile Settings](https://github.com/settings/profile#profile-settings-heading)
+- Achievement tiers (Bronze → Silver → Gold) are tracked cumulatively across all repositories
