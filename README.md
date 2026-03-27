@@ -39,6 +39,13 @@ Some Achievements not only have the base version, but also tiers.
 
 | Title | Tier | Badge | Earned by |
 | --- | --- | --- | --- |
+Heart On Your Sleeve x2 | Bronze 🥉 | <img alt="Heart On Your Sleeve Bronze Badge" src="/images/tiers/heart-on-your-sleeve-bronze.png" style="width: 180px;"> | 16 ❤️ reactions
+Heart On Your Sleeve x3 | Silver 🥈 | <img alt="Heart On Your Sleeve Silver Badge" src="/images/tiers/heart-on-your-sleeve-silver.png" style="width: 180px;"> | 128 ❤️ reactions
+Heart On Your Sleeve x4 | Gold 🥇 | <img alt="Heart On Your Sleeve Gold Badge" src="/images/tiers/heart-on-your-sleeve-gold.png" style="width: 180px;"> | ??? ❤️ reactions
+Open Sourcerer x2 | Bronze 🥉 | <img alt="Open Sourcerer Bronze Badge" src="/images/tiers/open-sourcerer-bronze.png" style="width: 180px;"> | 8 open source pull request merged
+Open Sourcerer x3 | Silver 🥈 | <img alt="Open Sourcerer Silver Badge" src="/images/tiers/open-sourcerer-silver.png" style="width: 180px;"> | 16 open source pull request merged
+Open Sourcerer x4 | Gold 🥇 | <img alt="Open Sourcerer Gold Badge" src="/images/tiers/open-sourcerer-gold.png" style="width: 180px;"> | 64 open source pull request merged
+||| <!-- this empty row is intentional to separate -->
 Pair Extraordinaire x2 | Bronze 🥉 | <img alt="Pair Extraordinaire Bronze Badge" src="/images/tiers/pair-extraordinaire-bronze.png" style="width: 180px;"> | Coauthored in 10 merged pull requests
 Pair Extraordinaire x3 | Silver 🥈 | <img alt="Pair Extraordinaire Silver Badge" src="/images/tiers/pair-extraordinaire-silver.png" style="width: 180px;"> | Coauthored in 24 merged pull requests
 Pair Extraordinaire x4 | Gold 🥇 | <img alt="Pair Extraordinaire Gold Badge" src="/images/tiers/pair-extraordinaire-gold.png" style="width: 180px;"> | Coauthored in 48 merged pull requests
