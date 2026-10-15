@@ -8,9 +8,9 @@ Following the launch of the first Mars Helicopter, [Ingenuity](https://en.wikip
 
 This repository attempts to list them all.
 
-**2022-06-09:** GitHub [announced more Achievements](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/), but without specific criteria. If you see something not listed here or is incorrect, please open an issue :)
+**2022-06-09:** GitHub [announced more Achievements](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/), but without specific criteria. If you see something not listed here or that is incorrect, please open an issue :)
 
-**2024-02-06:** Achievements will no longer be available in [GitHub's Community Discussions](https://github.com/orgs/community/discussions/) to counter spam, see [the announcement](https://github.com/orgs/community/discussions/106536).
+**2024-02-06:** Achievements will no longer be available in [GitHub's Community Discussions](https://github.com/orgs/community/discussions/) to counter spam; see [the announcement](https://github.com/orgs/community/discussions/106536).
 
 Don't like the Achievements? [Here](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile#changing-the-visibility-of-achievements) is how to disable them. [Direct link to the setting for your convenience](https://github.com/settings/profile#profile-settings-heading).
 
@@ -29,7 +29,7 @@ Finishing Touch | ![Finishing Touch Badge](/images/finishing-touch-default-764b3
 ||| <!-- this empty row is intentional to separate -->
 Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](/images/arctic-code-vault-contributor-default.png) | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
 Public Sponsor | ![GitHub Sponsor Achievement Badge](/images/public-sponsor-default.png) | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
-Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](/images/mars-2020-contributor-default.png) | ❌ | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter)
+Mars 2020 Contributor |[Mars 2020 Helicopter Contributor Achievement Badge](/images/mars-2020-contributor-default.png) | ❌ | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter)
 
 ### Internal
 
@@ -39,11 +39,11 @@ These are internal Achievements awarded for contributions to GitHub's developmen
 | --- | --- | --- | --- |
 Proxima Pioneer | ![Proxima Pioneer Badge](/images/proxima-pioneer-default-51cd4e4969d5.png) | ❌ (Internal) | M0 Participant ("contributed to Proxima POC")
 Proxima Staffshipper | ![Proxima Staffshipper Badge](/images/proxima-staffshipper-default-84f658288021.png) | ❌ (Internal) | M8 Participant ("shipped Proxima Staffship instance")
-Proxima Staffuser | ![Proxima Staffuser Badge](/images/proxima-staffuser-default-02bf6163ea31.png) | ❌ (Internal) | When your team is on Proxima ("onboarded to Proxima")
+Proxima Staffuser |[Proxima Staffuser Badge](/images/proxima-staffuser-default-02bf6163ea31.png) | ❌ (Internal) | When your team is on Proxima ("onboarded to Proxima")
 
 ### Disabled
 
-There are Achievements that were live at least for some but are currently disabled, so are neither earnable nor show up (anymore) on any profile.
+There are Achievements that were live at least for some time but are currently disabled, so they are neither earnable nor show up (anymore) on any profile.
 
 | Title | Badge | Earnable? | Earned by |
 | --- | --- | --- | --- |
@@ -105,7 +105,7 @@ To the best of our knowledge:
 
 ### Tier labels
 
-Each tier has a label associated which includes a color.
+Each tier has a label associated which includes a colour.
 
 | Tier | Label | Sample | Hex | Visual |
 | --- | --- | --- | --- | --- |
@@ -115,7 +115,7 @@ Gold 🥇 | x4 | ![x4](/images/custom/tier-label/tier-label-gold.svg) | #FAE57E 
 
 ### 100 % samples
 
-[Here](/images/captured/complete) are screenshots of all Achievements at 100 % unlocked as seen in full in the dialog, both light and dark mode.  
+[Here](/images/captured/complete) are screenshots of all Achievements at 100 % unlocked as seen in full in the dialogue, both light and dark mode.  
 See them live, including the animation some have, for example here:
 
 | Title | Sample |
@@ -138,21 +138,21 @@ Proxima Staffuser | [Live 100 % unlocked sample by @timrogers](https://github.co
 ||| <!-- this empty row is intentional to separate -->
 Finishing Touch | [Live 100 % unlocked sample by @dylanatsmith](https://github.com/dylanatsmith?achievement=finishing-touch&tab=achievements)
 
-Do you know a user with all Achievements with highest tier at the same time? Let me know [here](https://github.com/Schweinepriester/github-profile-achievements/discussions/925)!
+Do you know a user with all achievements at the highest tier at the same time? Let me know [here](https://github.com/Schweinepriester/github-profile-achievements/discussions/925)!
 
 ### Variants
 
-[Here](/images/variants) are the variants of Badges including the [Octocat :octocat:](https://github.com/logos) based on [the setting](https://github.com/settings/appearance#emoji-heading) for the [Emoji skin tone](https://en.wikipedia.org/wiki/Emoji#Skin_color) [✌️](https://emojipedia.org/victory-hand/)[✌🏻✌🏼✌🏽✌🏾✌🏿](https://emojipedia.org/emoji-modifier-sequence/).
+[Here](/images/variants) are the variants of Badges, including the [Octocat :octocat:](https://github.com/logos) based on [the setting](https://github.com/settings/appearance#emoji-heading) for the [Emoji skin tone](https://en.wikipedia.org/wiki/Emoji#Skin_color) [✌️](https://emojipedia.org/victory-hand/)[✌🏻✌🏼✌🏽✌🏾✌🏿](https://emojipedia.org/emoji-modifier-sequence/).
 
 ## Highlights
 
-The Highlights section below the Achievements including the corresponding badges is currently [best documented in the official GitHub docs](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
+The Highlights section below the Achievements, including the corresponding badges, is currently [best documented in the official GitHub docs](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
 
 ## Previous versions
 
 ### 2021-04-19 - 2022-06-09
 
-From the [start with Ingenuity on 2021-04-19](https://github.blog/2021-04-19-open-source-goes-to-mars/) until the [additions on 2022-06-09](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/), the first three Achievements had slightly different designs and names. In other words, they were overhauled on 2022-06-09.
+From the [start with Ingenuity on 2021-04-19](https://github.blog/2021-04-19-open-source-goes-to-mars/) until the [additions on 2022-06-09](https://github.blog/2022-06-09-introducing-achievements-recognising-the-many-stages-of-a-developers-coding-journey/), the first three Achievements had slightly different designs and names. In other words, they were overhauled on 2022-06-09.
 
 ```diff
 - GitHub Sponsor
