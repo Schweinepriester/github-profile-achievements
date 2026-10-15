@@ -49,6 +49,7 @@ There are Achievements that were live at least for some but are currently disabl
 | --- | --- | --- | --- |
 Heart On Your Sleeve | ![Heart On Your Sleeve Badge](/images/heart-on-your-sleeve-default.png) | ❌ (🔜 Being tested) | React to something on GitHub with a ❤️ emoji 
 Open Sourcerer | ![Open Sourcerer Badge](/images/open-sourcerer-default.png) | ❌ (🔜 Being tested) | User had PRs merged in multiple public repositories 
+Kintsugi | ![Kintsugi](/images/kintsugi.png) | ❌ ( Unkown ) | Only footage of this achievement [here](https://github.com/orgs/community/discussions/208142)
 
 ## Tiers
 
