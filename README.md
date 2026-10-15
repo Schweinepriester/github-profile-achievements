@@ -25,6 +25,7 @@ Starstruck | ![Starstruck Badge](/images/starstruck-default.png) | ✔️ | Crea
 Galaxy Brain | ![Galaxy Brain Badge](/images/galaxy-brain-default.png) | ✔️ | 2 accepted answers
 Pull Shark | ![Pull Shark Badge](/images/pull-shark-default.png) | ✔️ | 2 pull requests merged
 YOLO | ![YOLO Badge](/images/yolo-default.png) | ✔️ | Merged own pull request without code review
+Finishing Touch | ![Finishing Touch Badge](/images/finishing-touch-default-764b3a996d62.png) | ✔️ | Authored a merged pull request that improved GitHub's UI quality
 ||| <!-- this empty row is intentional to separate -->
 Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](/images/arctic-code-vault-contributor-default.png) | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
 Public Sponsor | ![GitHub Sponsor Achievement Badge](/images/public-sponsor-default.png) | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
@@ -69,7 +70,6 @@ Pull Shark x2 | Bronze 🥉 | <img alt="Pull Shark Bronze Badge" src="/images/ti
 Pull Shark x3 | Silver 🥈 | <img alt="Pull Shark Silver Badge" src="/images/tiers/pull-shark-silver.png" style="width: 180px;"> | 128 pull requests merged
 Pull Shark x4 | Gold 🥇 | <img alt="Pull Shark Gold Badge" src="/images/tiers/pull-shark-gold.png" style="width: 180px;"> | 1024 pull requests merged
 ||| <!-- this empty row is intentional to separate -->
-Finishing Touch | Default | <img alt="Finishing Touch Badge" src="/images/finishing-touch-default-764b3a996d62.png" style="width: 180px;"> | 1 UI quality pull request merged
 Finishing Touch x2 | Bronze 🥉 | <img alt="Finishing Touch Bronze Badge" src="/images/tiers/finishing-touch-bronze.png" style="width: 180px;"> | 4 UI quality pull requests merged
 Finishing Touch x3 | Silver 🥈 | <img alt="Finishing Touch Silver Badge" src="/images/tiers/finishing-touch-silver.png" style="width: 180px;"> | 16 UI quality pull requests merged
 Finishing Touch x4 | Gold 🥇 | <img alt="Finishing Touch Gold Badge" src="/images/tiers/finishing-touch-gold.png" style="width: 180px;"> | 32 UI quality pull requests merged
