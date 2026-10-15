@@ -68,6 +68,11 @@ Galaxy Brain x4 | Gold 🥇 | <img alt="Galaxy Brain Gold Badge" src="/images/ti
 Pull Shark x2 | Bronze 🥉 | <img alt="Pull Shark Bronze Badge" src="/images/tiers/pull-shark-bronze.png" style="width: 180px;"> | 16 pull requests merged
 Pull Shark x3 | Silver 🥈 | <img alt="Pull Shark Silver Badge" src="/images/tiers/pull-shark-silver.png" style="width: 180px;"> | 128 pull requests merged
 Pull Shark x4 | Gold 🥇 | <img alt="Pull Shark Gold Badge" src="/images/tiers/pull-shark-gold.png" style="width: 180px;"> | 1024 pull requests merged
+||| <!-- this empty row is intentional to separate -->
+Finishing Touch | Default | <img alt="Finishing Touch Badge" src="/images/finishing-touch-default-764b3a996d62.png" style="width: 180px;"> | 1 UI quality pull request merged
+Finishing Touch x2 | Bronze 🥉 | <img alt="Finishing Touch Bronze Badge" src="/images/tiers/finishing-touch-bronze.png" style="width: 180px;"> | 4 UI quality pull requests merged
+Finishing Touch x3 | Silver 🥈 | <img alt="Finishing Touch Silver Badge" src="/images/tiers/finishing-touch-silver.png" style="width: 180px;"> | 16 UI quality pull requests merged
+Finishing Touch x4 | Gold 🥇 | <img alt="Finishing Touch Gold Badge" src="/images/tiers/finishing-touch-gold.png" style="width: 180px;"> | 32 UI quality pull requests merged
 
 ### Disabled
 
@@ -130,6 +135,8 @@ Mars 2020 Contributor | [Live 100 % unlocked sample by @torvalds](https://github
 Proxima Pioneer | [Live 100 % unlocked sample by @brannon](https://github.com/brannon?achievement=proxima-pioneer&tab=achievements)
 Proxima Staffshipper | [Live 100 % unlocked sample by @brannon](https://github.com/brannon?achievement=proxima-staffshipper&tab=achievements)
 Proxima Staffuser | [Live 100 % unlocked sample by @timrogers](https://github.com/timrogers?achievement=proxima-staffuser&tab=achievements)
+||| <!-- this empty row is intentional to separate -->
+Finishing Touch | [Live 100 % unlocked sample by @dylanatsmith](https://github.com/dylanatsmith?achievement=finishing-touch&tab=achievements)
 
 Do you know a user with all Achievements with highest tier at the same time? Let me know [here](https://github.com/Schweinepriester/github-profile-achievements/discussions/925)!
 
