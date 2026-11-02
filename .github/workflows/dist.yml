@@ -1,0 +1,40 @@
+name: Update dist
+
+on:
+  push:
+    branches:
+     - main
+    paths:
+      - 'images/experiments/**'
+      - '.github/workflows/dist.yml'
+      - 'scripts/embed_images.py'
+  schedule:
+    - cron: "30 2 * * *"
+  workflow_dispatch: ~
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Update
+        run: python -u ./scripts/embed_images.py
+
+      - name: Get current time
+        run: echo "curr_time=$(date -uIs)" >> $GITHUB_ENV
+
+      - name: Push
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: dist
+          folder: dist
+          git-config-name: github-actions[bot]
+          git-config-email: 41898282+github-actions[bot]@users.noreply.github.com
+          commit-message: ${{ env.curr_time }}
